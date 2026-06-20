@@ -1,277 +1,2872 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 8 0 R /F6 10 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 9
+/Kids [ 4 0 R 20 0 R 24 0 R 28 0 R 32 0 R 36 0 R 40 0 R 44 0 R 48 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F1-2 9 0 R
+/F2 10 0 R
+/F2-0 11 0 R
+/F2-1 12 0 R
+/F2-2 13 0 R
+/F3 14 0 R
+/F3-0 15 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+>>
+/XObject <<
+/FormXob.6dad61813444481a6e0457c85000eacc 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/BaseFont /ZapfDingbats /Name /F4 /Subtype /Type1 /Type /Font
+/Length 7507
 >>
+stream
+q
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.909804 .407843 .14902 rg
+n 0 643.4646 595.2756 198.4252 re f*
+.117647 .227451 .372549 rg
+n 0 813.5433 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 198.0418 823.4646 Tm (Trilha EJA-EPT  |  ProfEPT  |  IFC Campus Blumenau) Tj T* ET
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 224.3078 779.5276 Tm (M\323DULO PARA O EDUCADOR) Tj T* ET
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 187.5948 742.6772 Tm (Orienta\347\365es Pedag\363gicas) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 195.2658 711.4961 Tm (para o uso do Trilha EJA-EPT em sala) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 176.7498 677.4803 Tm (M\363dulo: Para o Educador  |  EJA-EPT  |  Eletricista Industrial) Tj T* ET
+.117647 .227451 .372549 rg
+n 0 634.9606 595.2756 8.503937 re f*
+.996078 .941176 .909804 rg
+n
+107.7165 535.748 m
+501.7323 535.748 l
+506.4333 535.748 510.2362 539.551 510.2362 544.252 c
+510.2362 600.9449 l
+510.2362 605.6459 506.4333 609.4488 501.7323 609.4488 c
+107.7165 609.4488 l
+103.0156 609.4488 99.2126 605.6459 99.2126 600.9449 c
+99.2126 544.252 l
+99.2126 539.551 103.0156 535.748 107.7165 535.748 c
+h
+f*
+.909804 .407843 .14902 RG
+1 w
+n
+107.7165 535.748 m
+501.7323 535.748 l
+506.4333 535.748 510.2362 539.551 510.2362 544.252 c
+510.2362 600.9449 l
+510.2362 605.6459 506.4333 609.4488 501.7323 609.4488 c
+107.7165 609.4488 l
+103.0156 609.4488 99.2126 605.6459 99.2126 600.9449 c
+99.2126 544.252 l
+99.2126 539.551 103.0156 535.748 107.7165 535.748 c
+h
+S
+.117647 .227451 .372549 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 179.6728 595.2756 Tm ("Para educadores que compreendem que ensinar) Tj T* ET
+BT 1 0 0 1 189.6728 578.2677 Tm (na EJA \351 um ato pol\355tico de esperan\347a ativa.") Tj T* ET
+.952941 .956863 .964706 rg
+n
+76.53543 246.6142 m
+532.9134 246.6142 l
+536.0474 246.6142 538.5827 249.1495 538.5827 252.2835 c
+538.5827 496.063 l
+538.5827 499.197 536.0474 501.7323 532.9134 501.7323 c
+76.53543 501.7323 l
+73.40145 501.7323 70.86614 499.197 70.86614 496.063 c
+70.86614 252.2835 l
+70.86614 249.1495 73.40145 246.6142 76.53543 246.6142 c
+h
+f*
+.909804 .407843 .14902 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 82.20472 507.4016 Tm (SUM\301RIO) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 82.20472 484.7244 Tm /F4 9.5 Tf 11.4 TL (n) Tj /F1 9.5 Tf 11.4 TL (  Quem \351 o estudante da EJA-EPT?) Tj T* ET
+.419608 .447059 .501961 RG
+.3 w
+[1 3] 0 d
+n 250.5047 488.9764 m 504.5669 488.9764 l S
+[] 0 d
+1 w
+.909804 .407843 .14902 rg
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 521.9621 484.7244 Tm (2) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 82.20472 450.7087 Tm /F4 9.5 Tf 11.4 TL (n) Tj /F1 9.5 Tf 11.4 TL (  EJA como Direito \227 n\343o como oportunidade) Tj T* ET
+.419608 .447059 .501961 RG
+.3 w
+[1 3] 0 d
+n 301.5047 454.9606 m 504.5669 454.9606 l S
+[] 0 d
+1 w
+.909804 .407843 .14902 rg
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 521.9621 450.7087 Tm (3) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 82.20472 416.6929 Tm /F4 9.5 Tf 11.4 TL (nn) Tj /F1 9.5 Tf 11.4 TL (  Mundo do Trabalho x Mercado de Trabalho) Tj T* ET
+.419608 .447059 .501961 RG
+.3 w
+[1 3] 0 d
+n 301.5047 420.9449 m 504.5669 420.9449 l S
+[] 0 d
+1 w
+.909804 .407843 .14902 rg
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 521.9621 416.6929 Tm (4) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 82.20472 382.6772 Tm /F4 9.5 Tf 11.4 TL (nn) Tj /F1 9.5 Tf 11.4 TL (  Como mediar o Mapa da Vida sem meritocracia) Tj T* ET
+.419608 .447059 .501961 RG
+.3 w
+[1 3] 0 d
+n 321.9047 386.9291 m 504.5669 386.9291 l S
+[] 0 d
+1 w
+.909804 .407843 .14902 rg
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 521.9621 382.6772 Tm (5) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 82.20472 348.6614 Tm /F4 9.5 Tf 11.4 TL (n) Tj /F1 9.5 Tf 11.4 TL (  O educador contra o apag\343o informacional) Tj T* ET
+.419608 .447059 .501961 RG
+.3 w
+[1 3] 0 d
+n 301.5047 352.9134 m 504.5669 352.9134 l S
+[] 0 d
+1 w
+.909804 .407843 .14902 rg
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 521.9621 348.6614 Tm (7) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 82.20472 314.6457 Tm /F4 9.5 Tf 11.4 TL (n) Tj /F1 9.5 Tf 11.4 TL (  Roteiro de 6 Encontros) Tj T* ET
+.419608 .447059 .501961 RG
+.3 w
+[1 3] 0 d
+n 209.7047 318.8976 m 504.5669 318.8976 l S
+[] 0 d
+1 w
+.909804 .407843 .14902 rg
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 521.9621 314.6457 Tm (8) Tj T* ET
+q
+79.37008 0 0 79.37008 257.9528 138.8976 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+.117647 .227451 .372549 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 245.1818 130.3937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+.117647 .227451 .372549 rg
+n 0 0 595.2756 39.68504 re f*
+q
+31.1811 0 0 31.1811 70.86614 4.251969 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 110.5512 26.92913 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F2 7 Tf 8.4 TL ( para trabalhadores-estudantes.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 110.5512 17.00787 Tm (Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+BT 1 0 0 1 110.5512 8.503937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 523.0147 17.00787 Tm (1/10) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+0 802.8898 595.2756 39 re
+f*
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 202.4898 827.8898 Tm
+(Trilha EJA\055EPT \174 ProfEPT \174 IFC Campus Blumenau) Tj
+T*
+ET
+BT
+/F1-0 6.3 Tf
+7.56 TL
+ET
+BT
+1 0 0 1 202.7598 815.3898 Tm
+(Produto Educacional \267 Marileia Hillesheim Netto \267 CC BY\055NC\055SA 4\0560) Tj
+T*
+ET
+1 1 1 rg
+1 1 1 RG
+n
+0 631.8898 595.2756 171 re
+f*
+0.909804 0.407843 0.14902 rg
+0.909804 0.407843 0.14902 RG
+n
+0 691.8898 595.2756 111 re
+f*
+1 1 1 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 224.3078 773.8898 Tm
+(M\323DULO PARA O EDUCADOR) Tj
+T*
+ET
+BT
+/F2-0 19 Tf
+22.8 TL
+ET
+BT
+1 0 0 1 181.4813 739.8898 Tm
+(Orienta\347\365es Pedag\363gicas) Tj
+T*
+ET
+BT
+/F1-0 13 Tf
+15.6 TL
+ET
+BT
+1 0 0 1 186.7348 709.8898 Tm
+(para o uso do Trilha EJA\055EPT em sala) Tj
+T*
+ET
+1 1 1 rg
+1 1 1 RG
+n
+80 525.748 445 93.7008 re
+f*
+0.996078 0.941176 0.909804 rg
+0.909804 0.407843 0.14902 RG
+1 w
+n
+107.2126 553.748 m
+502.2362 553.748 l
+506.6586 553.748 510.2362 557.3256 510.2362 561.748 c
+510.2362 619.4488 l
+510.2362 623.8712 506.6586 627.4488 502.2362 627.4488 c
+107.2126 627.4488 l
+102.7902 627.4488 99.2126 623.8712 99.2126 619.4488 c
+99.2126 561.748 l
+99.2126 557.3256 102.7902 553.748 107.2126 553.748 c
+h
+B*
+0.117647 0.227451 0.372549 rg
+BT
+/F3-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 186.7594 595.5984 Tm
+(\042Para educadores que compreendem que ensinar) Tj
+T*
+ET
+BT
+1 0 0 1 196.7594 578.5984 Tm
+(na EJA \351 um ato pol\355tico de esperan\347a ativa\056\042) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+498 11.8898 47 20 re
+f*
+1 1 1 rg
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 527.48 20.3898 Tm
+(1\0579) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-2 12 Tf
+14.4 TL
+ET
+0.952941 0.956863 0.964706 rg
+0.952941 0.956863 0.964706 RG
+n
+515 344.8898 23 14 re
+f*
+0.909804 0.407843 0.14902 rg
+BT
+/F2-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 521.9621 348.6898 Tm
+(6) Tj
+T*
+ET
+0.952941 0.956863 0.964706 rg
+0.952941 0.956863 0.964706 RG
+n
+515 310.8898 23 14 re
+f*
+0.909804 0.407843 0.14902 rg
+BT
+/F2-2 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 521.9621 314.6898 Tm
+(7) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 264 /Length 3509 /Subtype /Image 
-  /Type /XObject /Width 264
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb"/c6*A/9%KgW*BDY2k>KgIHVL]kn+e&ldV[?QFPXLB(mlpdPzzzzz!!#jdn,NA)n[\P#lDrcC8a1Hr<:c^H6V:_Y^.M#4gS^M7<$,$7WqTLkqV=?c]VkUfdT=,cP1&gmWTH@oLQoO<I?g%G[nemMWBR-M<UZuaoXfOOGu+)VV6>2P-)KMd;pBZh%k2qWq^O&nDP(\#WXnO/WIDG'X$S[F2h/of1];Eb<s?,oUMd*(DY'kN(MD5lp![ba($+A5\uC.ic)ZG$S5D5q:UbULOGbp[VY]O8Y6o;i7bq$.h<%^'0!]WghH)pA5L\f\k3!H9mbY!(eV>SpFn9[3Dg1YMSEe"V\[qSs`OEJR.SfYFb$<d#SDr;ZHPNIT0P.D)ISTG#m_+KVI@)ck2a=58G5#=^WBO"DX.,_[I(Oa/i`%"sbgjta.DFWO=#&NdDZ6^5l)(ZL-af9jds^HBJ*Lq-qPo!BH`8dVLMm*hmaeMDl6j!+.arh0k'uZ6h>4.#;L>Auh1onIVs`-<YNdLCQR^I4kiRB[DVb/hIStNl1>R_'rho28Xfq";[?iAlIH]gCl>GGSWd[imWA<97G<bN,;uB>bYM*'CkruWSES$c@B?G_S^8am$_;10amM%lari>`mA\&E?Ib](DpmL\[[BD(/I;nr@XujVKPlIb3<LN9-],u7Q.=S/l=7*'2F<B<:\Eco[1ZcAd?WF!#i9nWkGD`"As&JrrP,bSJ-acIphVEU[l;i%,OGgMqa9B+6WNN6CE^;<QWiPE?>`al-lDj\((ZaSO\uL5#"h?UlY,WRa5qYp4X6PIFOGbLPG5G7QnUBkR\*pJL(%D;`IGk&[n%4!lrMt_b\EO+aT6]>]]B`fmI)&GuGlQ"bDVnb".cLPJqS;u@hKSkbqH"7NE75'K5P)VDGLsTepjehtnG\jMh7gN#<Q#-toRZb_]^PRMoa`-D^:ACApV:(N2rnGMDKRS!"h@a9>Fc.65q^aR<p,';OGgNXe[]''jC56/FY9$b\QGn:SI9$q0%T;gkB\(bhq\+jT!NL7qQK1+X6[K`.JKU;gMO)ms&GV-Fkq6sjaL0O]?QW+^T,bbY5:tkglJIQ\%,E8=*;+)Fl1<*qbbo22HQpYW_U%7mQ6hW5H;<Nk">;Re`g,dI4%t]7od%Q>cI_'3o0)4mpsT>W9SPq/(K,La%a$g;tlL(GMbtS3%"[]9Y"f$:,dTA5qY4^FOMTRjJ%9%2go^4/ir3<djGsmU4Z3"I<%V+3p:\7-Ptj<K2+@RE\T'\pn40.FoSFi]%*oL/j>@)Eq'ULpcpIQ`Acl;"1]NjhiNa,jFUWa6S:Qa$ZbbH\bJEBaMg+!iWH_N3u=gOZ`5,ASYuBM<C]Jm0<)K]3ps\nrBF:P7;=KT\PtWX]t=5-<C]Jm0<)K]3ps\nrBF:P7;=KT\PtWX]t=5-<C]Jm0<)K]3ps\nrBF:P7;=KT\PtWX]t=5-<C]Jm0<)K]3ps\nrBF:P`K\'7r(5/&lEdLolG(K+I`M]'G`jNSO:-+!,ZFO_(ZaRIVY!5.aMj?:l%`N*M^Oq@&%Nf!:GSagE^;=LUg$&5;YR8=YNdM.SN<*a?8q;_W]G(1T2Xoncg/S6=&nF#pN,V)mWmWukGmg[m=%g$b<<$JpKU^h\)#B0F1LIVj.<<Oo="NVFY<F$DVT;5Fl%:+Vp=Cqf8Y-[Wm9AekL@&to;[2:lDXQ!laZ\Pni:iJh<o$(s5\c:m*)N)>Q<c9>jT\8U0IZYJm@ZdX.ihujFUY'bc@IBs5\c:m*)N)>Q<c9>jT\8U0IZYJm@ZdX$Yp;g]*M1;sLsk=7&jb\#Soba8K$8<5"o1fA44=DVb0WIb\;<:Y#@,Fl!#.n(+W0m`59+qc(8$?J"#Jqek6dmXEqu[85?Ml#kh\]C4=Qn*\6p<Vob/T3g.*^\_p)qX/gf?aW\[qrr7ZrO_OLXmb\urDi_o]q8W_h7ri)h>2#dgiHI[ohFu$c.i*`[bl<@LAL&pD>e\5D`e:mI<5"grk%PV*e^6$\TqEZh=_cu_GK.F]WM3Oqi(hhW,HS1epk1-`e,tp2`G[@^Y=4t5oAmVRr82&qGGd;j_25#<Bp-uR!t[,]&\HJ31+$=>`]<ue*E/)EoCDP?#i4`*)*P/0$&a!l#k)O\Ss790"E)@*H:Ikb$ItoVJuF6HCodoO:-)KKj9]IEcHe<O:-)KKj9]IEcHe<O:-)KKj9]IEcHe<O:-)K-0:2fcVr`5l_aAE0$)#WHZrb9nMfO'kBhDYEq)*LU??lI?#oHojJ(gaG?o7Z2rp^rHZrb9nMfO'kBhDYEq)*LU??lIh7)L_IHRNj`I55`5#\)rT;mpODX)]+5,@=]l_j/5j\JlH<B#%bDBDbt\b/mFT(8eZUT0fp+1Dc[\_R%\4&>ZNePXjkh2g<Ge6Hnie=EN8WTpGIVXDLl6Y\6_Id53Wr`"#>F]8%pp)u;[><d8n.=\?YWk,2,EVkidbH7DJo9;I>S[U?PY#P"mhRi[LVLL)VJm?)+E^;>9$Fq8qE.qPY$b/MUa9>fl(ZYY#O:-*f+E\4_HZo:]dW,0Bp2g(Zh/g-AP]&&MPRhXrVsi5#QhsGOVUA99i:_6gIbf(U^Q`XdrKIh15H!u%4dZ%=q52S9q;CsfqL77A\\FAI.fGSBDEk&ff0,Jt9DPI5:\irBF8C@AF1K&MD^t^M%rOV0n$cM,G<[OIe=EZ*])>LNX6RIRO1VR,+*'Y"Fs%T)*HFFu3qkuoaMeYM6E<I+a@59@a9B-,JQul2a9B-<g^gq<(H\GdjmHd5QX?QV?_rt_Wr;DSBpFq_mXB>-q*jS?<B@+_gAgT4<_<,UmUt.<?_m*mV3CbUrU9/gQ'D=:IWg/87I$IE3iT=:s6cIZ8bqiCB@iJWV!_B^PPV<Xn*XnTPlL0#G('0TlCM!:WNY%Um[dHNq=!`af9]j?mTHBMqPsM_mV.rNs6b>ZIJH=sSlIhNYM0$ESlSGYYNj.kY=^1MpF1HW?C+oul#b\Ko_uJQ,o:>Xh=`qDs))u$`L9Q2rD)gr>?u9SVUKCse,/T7QX$WVFPH9Vrk$],(Mc(fp,ftfDKX(?RSL?j:@Gr%h,AAL-''PSDEaul;XN@)YGr\p]\W#,Xl%B9E\V?:m^akGDEa8B=o36k:$HlnR9[tiQb.--^RNR1@b/9KF]8.mHmTZ9p>rHHddQ<S\X9cXGMSL42kR#2@X:6gIJ4bZm`MZlY,d.ZOGf[@WHmrS<0.K.Yu<S=n"#IGE^;=$lDE^WdnrC`aMgp1e@]ud.`_e(fVt@/pJ+3^\KD\MF]7ngl)5^@jC5$)C>M#m'lO%MHW88Ueks\gdW+a!4g0amS\+>h26U4S24$qU]eB,m.T1KY^/*:lDB784.NS8th".O:h7<DH<V*eE<-,$\h"u-<X!2]Lme]u.ldeqXV:'APb<<%de=F5?;`1a_7l?W*a1X/#]IHg'm_2KI]P\b?>Ugcg^>/=[8DUiR5#q3cF]<F]FPQb6cO0^Qzzzzz!!$g4*uVJG]`~>endstream
 endobj
 7 0 obj
 <<
-/Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6dad61813444481a6e0457c85000eacc 6 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6dad61813444481a6e0457c85000eacc 6 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Symbol /Name /F6 /Subtype /Type1 /Type /Font
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6dad61813444481a6e0457c85000eacc 6 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 12 0 obj
 <<
-/Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6dad61813444481a6e0457c85000eacc 6 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 13 0 obj
 <<
-/Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6dad61813444481a6e0457c85000eacc 6 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 14 0 obj
 <<
-/Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6dad61813444481a6e0457c85000eacc 6 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 15 0 obj
 <<
-/Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6dad61813444481a6e0457c85000eacc 6 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 16 0 obj
 <<
-/Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6dad61813444481a6e0457c85000eacc 6 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 17 0 obj
 <<
-/Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6dad61813444481a6e0457c85000eacc 6 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 18 0 obj
 <<
-/PageMode /UseNone /Pages 20 0 R /Type /Catalog
+/BaseFont /Symbol
+/Name /F6
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 19 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20260613134938+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260613134938+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 264
+/Subtype /Image
+/Type /XObject
+/Width 264
+/Length 3509
 >>
+stream
+Gb"/c6*A/9%KgW*BDY2k>KgIHVL]kn+e&ldV[?QFPXLB(mlpdPzzzzz!!#jdn,NA)n[\P#lDrcC8a1Hr<:c^H6V:_Y^.M#4gS^M7<$,$7WqTLkqV=?c]VkUfdT=,cP1&gmWTH@oLQoO<I?g%G[nemMWBR-M<UZuaoXfOOGu+)VV6>2P-)KMd;pBZh%k2qWq^O&nDP(\#WXnO/WIDG'X$S[F2h/of1];Eb<s?,oUMd*(DY'kN(MD5lp![ba($+A5\uC.ic)ZG$S5D5q:UbULOGbp[VY]O8Y6o;i7bq$.h<%^'0!]WghH)pA5L\f\k3!H9mbY!(eV>SpFn9[3Dg1YMSEe"V\[qSs`OEJR.SfYFb$<d#SDr;ZHPNIT0P.D)ISTG#m_+KVI@)ck2a=58G5#=^WBO"DX.,_[I(Oa/i`%"sbgjta.DFWO=#&NdDZ6^5l)(ZL-af9jds^HBJ*Lq-qPo!BH`8dVLMm*hmaeMDl6j!+.arh0k'uZ6h>4.#;L>Auh1onIVs`-<YNdLCQR^I4kiRB[DVb/hIStNl1>R_'rho28Xfq";[?iAlIH]gCl>GGSWd[imWA<97G<bN,;uB>bYM*'CkruWSES$c@B?G_S^8am$_;10amM%lari>`mA\&E?Ib](DpmL\[[BD(/I;nr@XujVKPlIb3<LN9-],u7Q.=S/l=7*'2F<B<:\Eco[1ZcAd?WF!#i9nWkGD`"As&JrrP,bSJ-acIphVEU[l;i%,OGgMqa9B+6WNN6CE^;<QWiPE?>`al-lDj\((ZaSO\uL5#"h?UlY,WRa5qYp4X6PIFOGbLPG5G7QnUBkR\*pJL(%D;`IGk&[n%4!lrMt_b\EO+aT6]>]]B`fmI)&GuGlQ"bDVnb".cLPJqS;u@hKSkbqH"7NE75'K5P)VDGLsTepjehtnG\jMh7gN#<Q#-toRZb_]^PRMoa`-D^:ACApV:(N2rnGMDKRS!"h@a9>Fc.65q^aR<p,';OGgNXe[]''jC56/FY9$b\QGn:SI9$q0%T;gkB\(bhq\+jT!NL7qQK1+X6[K`.JKU;gMO)ms&GV-Fkq6sjaL0O]?QW+^T,bbY5:tkglJIQ\%,E8=*;+)Fl1<*qbbo22HQpYW_U%7mQ6hW5H;<Nk">;Re`g,dI4%t]7od%Q>cI_'3o0)4mpsT>W9SPq/(K,La%a$g;tlL(GMbtS3%"[]9Y"f$:,dTA5qY4^FOMTRjJ%9%2go^4/ir3<djGsmU4Z3"I<%V+3p:\7-Ptj<K2+@RE\T'\pn40.FoSFi]%*oL/j>@)Eq'ULpcpIQ`Acl;"1]NjhiNa,jFUWa6S:Qa$ZbbH\bJEBaMg+!iWH_N3u=gOZ`5,ASYuBM<C]Jm0<)K]3ps\nrBF:P7;=KT\PtWX]t=5-<C]Jm0<)K]3ps\nrBF:P7;=KT\PtWX]t=5-<C]Jm0<)K]3ps\nrBF:P7;=KT\PtWX]t=5-<C]Jm0<)K]3ps\nrBF:P`K\'7r(5/&lEdLolG(K+I`M]'G`jNSO:-+!,ZFO_(ZaRIVY!5.aMj?:l%`N*M^Oq@&%Nf!:GSagE^;=LUg$&5;YR8=YNdM.SN<*a?8q;_W]G(1T2Xoncg/S6=&nF#pN,V)mWmWukGmg[m=%g$b<<$JpKU^h\)#B0F1LIVj.<<Oo="NVFY<F$DVT;5Fl%:+Vp=Cqf8Y-[Wm9AekL@&to;[2:lDXQ!laZ\Pni:iJh<o$(s5\c:m*)N)>Q<c9>jT\8U0IZYJm@ZdX.ihujFUY'bc@IBs5\c:m*)N)>Q<c9>jT\8U0IZYJm@ZdX$Yp;g]*M1;sLsk=7&jb\#Soba8K$8<5"o1fA44=DVb0WIb\;<:Y#@,Fl!#.n(+W0m`59+qc(8$?J"#Jqek6dmXEqu[85?Ml#kh\]C4=Qn*\6p<Vob/T3g.*^\_p)qX/gf?aW\[qrr7ZrO_OLXmb\urDi_o]q8W_h7ri)h>2#dgiHI[ohFu$c.i*`[bl<@LAL&pD>e\5D`e:mI<5"grk%PV*e^6$\TqEZh=_cu_GK.F]WM3Oqi(hhW,HS1epk1-`e,tp2`G[@^Y=4t5oAmVRr82&qGGd;j_25#<Bp-uR!t[,]&\HJ31+$=>`]<ue*E/)EoCDP?#i4`*)*P/0$&a!l#k)O\Ss790"E)@*H:Ikb$ItoVJuF6HCodoO:-)KKj9]IEcHe<O:-)KKj9]IEcHe<O:-)KKj9]IEcHe<O:-)K-0:2fcVr`5l_aAE0$)#WHZrb9nMfO'kBhDYEq)*LU??lI?#oHojJ(gaG?o7Z2rp^rHZrb9nMfO'kBhDYEq)*LU??lIh7)L_IHRNj`I55`5#\)rT;mpODX)]+5,@=]l_j/5j\JlH<B#%bDBDbt\b/mFT(8eZUT0fp+1Dc[\_R%\4&>ZNePXjkh2g<Ge6Hnie=EN8WTpGIVXDLl6Y\6_Id53Wr`"#>F]8%pp)u;[><d8n.=\?YWk,2,EVkidbH7DJo9;I>S[U?PY#P"mhRi[LVLL)VJm?)+E^;>9$Fq8qE.qPY$b/MUa9>fl(ZYY#O:-*f+E\4_HZo:]dW,0Bp2g(Zh/g-AP]&&MPRhXrVsi5#QhsGOVUA99i:_6gIbf(U^Q`XdrKIh15H!u%4dZ%=q52S9q;CsfqL77A\\FAI.fGSBDEk&ff0,Jt9DPI5:\irBF8C@AF1K&MD^t^M%rOV0n$cM,G<[OIe=EZ*])>LNX6RIRO1VR,+*'Y"Fs%T)*HFFu3qkuoaMeYM6E<I+a@59@a9B-,JQul2a9B-<g^gq<(H\GdjmHd5QX?QV?_rt_Wr;DSBpFq_mXB>-q*jS?<B@+_gAgT4<_<,UmUt.<?_m*mV3CbUrU9/gQ'D=:IWg/87I$IE3iT=:s6cIZ8bqiCB@iJWV!_B^PPV<Xn*XnTPlL0#G('0TlCM!:WNY%Um[dHNq=!`af9]j?mTHBMqPsM_mV.rNs6b>ZIJH=sSlIhNYM0$ESlSGYYNj.kY=^1MpF1HW?C+oul#b\Ko_uJQ,o:>Xh=`qDs))u$`L9Q2rD)gr>?u9SVUKCse,/T7QX$WVFPH9Vrk$],(Mc(fp,ftfDKX(?RSL?j:@Gr%h,AAL-''PSDEaul;XN@)YGr\p]\W#,Xl%B9E\V?:m^akGDEa8B=o36k:$HlnR9[tiQb.--^RNR1@b/9KF]8.mHmTZ9p>rHHddQ<S\X9cXGMSL42kR#2@X:6gIJ4bZm`MZlY,d.ZOGf[@WHmrS<0.K.Yu<S=n"#IGE^;=$lDE^WdnrC`aMgp1e@]ud.`_e(fVt@/pJ+3^\KD\MF]7ngl)5^@jC5$)C>M#m'lO%MHW88Ueks\gdW+a!4g0amS\+>h26U4S24$qU]eB,m.T1KY^/*:lDB784.NS8th".O:h7<DH<V*eE<-,$\h"u-<X!2]Lme]u.ldeqXV:'APb<<%de=F5?;`1a_7l?W*a1X/#]IHg'm_2KI]P\b?>Ugcg^>/=[8DUiR5#q3cF]<F]FPQb6cO0^Qzzzzz!!$g4*uVJG]`~>
+endstream
 endobj
 20 0 obj
 <<
-/Count 9 /Kids [ 7 0 R 9 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R ] /Type /Pages
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 22 0 R
+/F2 10 0 R
+/F2-0 23 0 R
+/F3 14 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+>>
+/XObject <<
+/FormXob.6dad61813444481a6e0457c85000eacc 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 21 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1834
+/Length 7702
 >>
 stream
-Gb"/'9lCt0&A@P9)!%Is#gI:.HRTqa'IdMDEKm1_g]Old3so$#b"?DqaH,fMC;4ScG,%C5>(E;p/'\PFBAS^a`:4Gas(k!nH:g]jJqTra/IBZY:#FCP1gqh/4kIV/G?ue/6Dn'dI@$08BshF(C.fm29KHZTUn2:7n;EfS?RAGPB=/s2V:.mF;be7%G2p84b\3i-n^95D=PSp,7/5]l9mi+O$nl2#N=Mn#-P@G@/Ne=3`\^uJA6R<;c[jAj3IZ*o2'r)gFB)DOh=ikk-Zft:bKYoN(Rmj"L<U5crBeu"dJ?5nJiDc3a3LO29S"=,/nIM`Xn.Gi-.V78\!M2ZI!n\TFE[N>jS8B<HK:hWh+UM"SMTktR8h)6QHVB;)rm:X4>5=F7VR(AXN=OcQ-[;f^8nkk(01rolr`"hm"'Y%i'RdI;_&b.b>8GDBX=^P<m_"%o*)6_&K^g@)`O;_*H%BY:8a[;%Al9i*D]_\2F[9`?#;`rbr/^l<HYW=j2F)1no[+Ak,WWt2s"k^_G_jP0g(Y=<b[k'5"\r'$s0EK?,EI`NJ1oBNg?Wes#<1SgbC1X+eoJ.iG"Dk/ssO3pJ:n31?A'-)3?#,PlQmd#\j@HB!GIDUk^Man;W6^0kQg'-DfS+jXJ[4_fk4X8$X;^*\2ai`WbMZ@qj)]OEN<A!,VjAdQq0/`IP<ol0WYXIDf!KHqkShG7)IbcR?+as6"QTDVm[Do1_fV-^77hYcO%;.#:uf0:FrGgF@lbI,3kJ<JtFZkN*,;+.r.F2(q=F?N:;XlKgPBAT=lX>;l%<2[WE"()5=7/ZSr6Aj+H_1,-:Ck&i)IX9H8/rt3nAEI"HOU,#T3`d3Oo8hk=MF&SYA(D)5SP1hZA[#@#@,YNj>",=3b(9PH50V]`m?903C9M@6/N+C?e'D&0?+HVQ"HSL7/0Qkn"*[P_D6'#PDUcha(%W.+3D$J3M6S7<`NK8U,!3js=I@S7^lXnW#mUuHbX/G9*k^lUO]13-o4SV==_VmD@hLC'kF)h0@EkILhiX\&mUX2>G`HGZO5A2:c1nMXgIaren?8Et:Nh29VotsXjZLPKChLt+K#+=9-@YMI!De>\Jk;;L/geZsT[6S4eS/V3XJk"?'Yt[R"R"Bj:'Vp1JBJ["5BfKFo+<^n>7;:0ON+ch)9a@bmpW:JCOJm]UoDTFG#$Zl48o]oQM*(q"R%33nm6c-"IAf\*Vt2sAU\Jc#=;6[!<SJ>?ZDuNGE]sl;Hr'HuC+]=[mIau_47#6!O3!`f6a/4?Xf5"oOo;3A^Y"dWFse(iL#R/BJ'g\k7u`SXgS+Y8GM2]"1%--++PoVq9_8@1=+8eJIlHgD0s_\lC`[=>bsb`h-o/O]a_:n^>3%PU+fdsg&,UAhM29q;D]*d2A+"^10\h_gR@$?\Y<?[TfcH#lfl(>m0BKc*>_)jdXlR^LgT"S1pStlULtF*BQ"g-nR/.:S&G78[-LMGpj0XX@lX"%M?*3^Dh'e2XZa-:>>4('BZ*ST_bJH&rrcsRd%Qb6F,8)>P1kDh:2UBNcbTRJ\+/EmrT8NTYC'2WpajE+HmC2?oZfl7,G[q!W]EgFY0V3R-3R:'Yd:nlYHZi3be5_=SL;?1JcWP=tNKLE6j85n3c$E;iYOX>tI1!"pLQAZErqcdS*tAW;V-$-fgQV6\7#C,N)b'LLfWsLuKB5i%i8W]YN/KLd40LBC0?)%)P2&[dp3tu5fkXuF6#F3uHR:'ufIsXNmMhcpEs&`)2TG,]kZ,Ar>d;=n+*O,NDWg+O(S#H',9u$I)ldiTrRA;hDPqY\mOpB1A&4d3-R7Y+'Ie#TDK-rsa9j5C"3lCMN;~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.909804 .407843 .14902 rg
+n 0 813.5433 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 70.86614 823.4646 Tm (Trilha EJA-EPT  |  ProfEPT  |  IFC Campus Blumenau) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 533.0227 824.8819 Tm (2) Tj T* ET
+.909804 .407843 .14902 rg
+n 70.86614 759.685 11.33858 19.84252 re f*
+.117647 .227451 .372549 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 87.87402 768.189 Tm /F4 12 Tf 14.4 TL (n) Tj /F2 12 Tf 14.4 TL (  Quem \351 o estudante da EJA-EPT?) Tj T* ET
+.898039 .905882 .921569 RG
+.5 w
+n 70.86614 756.8504 m 538.5827 756.8504 l S
+1 w
+q
+1 0 0 1 70.86614 681.8386 cm
+q
+BT 1 0 0 1 0 38.5 Tm .444685 Tw 16.5 TL /F1 11 Tf 0 0 0 rg (Bem-vindo\(a\)! Este espa\347o re\372ne orienta\347\365es fundamentadas na pesquisa ) Tj /F2 11 Tf (Projeto de vida na) Tj T* 0 Tw 1.120685 Tw (EJA-EPT: perspectivas de continuidade dos estudos e inser\347\343o no mundo do trabalho) Tj /F1 11 Tf (,) Tj T* 0 Tw (desenvolvida no ProfEPT/IFC Campus Blumenau.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 615.3307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38.5 Tm /F1 11 Tf 16.5 TL 1.376846 Tw (O objetivo \351 apoiar voc\352 no uso cr\355tico e transformador do Trilha EJA-EPT em sala de aula,) Tj T* 0 Tw .607954 Tw (reconhecendo as especificidades do estudante-trabalhador e a dimens\343o pol\355tica da educa\347\343o) Tj T* 0 Tw (de jovens e adultos.) Tj T* ET
+Q
+Q
+.858824 .917647 .996078 rg
+n
+76.53543 514.9843 m
+532.9134 514.9843 l
+536.0474 514.9843 538.5827 517.5196 538.5827 520.6535 c
+538.5827 584.1496 l
+538.5827 587.2836 536.0474 589.8189 532.9134 589.8189 c
+76.53543 589.8189 l
+73.40145 589.8189 70.86614 587.2836 70.86614 584.1496 c
+70.86614 520.6535 l
+70.86614 517.5196 73.40145 514.9843 76.53543 514.9843 c
+h
+f*
+.117647 .227451 .372549 rg
+n 70.86614 514.9843 8.503937 74.83465 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 572.811 Tm /F4 9 Tf 10.8 TL (n) Tj /F2 9 Tf 10.8 TL (  Trabalhador-estudante) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 558.6378 Tm (Chega \340 escola ap\363s longas jornadas de trabalho \227 muitas vezes) Tj T* ET
+BT 1 0 0 1 87.87402 545.0315 Tm (com mais de 8h de trabalho f\355sico antes de sentar na carteira.) Tj T* ET
+BT 1 0 0 1 87.87402 531.4252 Tm (O cansa\347o n\343o \351 falta de vontade: \351 condi\347\343o estrutural.) Tj T* ET
+.862745 .988235 .905882 rg
+n
+76.53543 431.6457 m
+532.9134 431.6457 l
+536.0474 431.6457 538.5827 434.181 538.5827 437.315 c
+538.5827 500.811 l
+538.5827 503.945 536.0474 506.4803 532.9134 506.4803 c
+76.53543 506.4803 l
+73.40145 506.4803 70.86614 503.945 70.86614 500.811 c
+70.86614 437.315 l
+70.86614 434.181 73.40145 431.6457 76.53543 431.6457 c
+h
+f*
+.086275 .396078 .203922 rg
+n 70.86614 431.6457 8.503937 74.83465 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 489.4724 Tm /F4 9 Tf 10.8 TL (n) Tj /F2 9 Tf 10.8 TL (  Sujeito de saberes) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 475.2992 Tm (Carrega saberes pr\341ticos constru\355dos no trabalho, na fam\355lia e na vida.) Tj T* ET
+BT 1 0 0 1 87.87402 461.6929 Tm (Como afirma Arroyo \(2017\), esses estudantes chegam \340 escola com) Tj T* ET
+BT 1 0 0 1 87.87402 448.0866 Tm (uma experi\352ncia de vida rica e v\341lida \227 que precisa ser reconhecida.) Tj T* ET
+.996078 .941176 .909804 rg
+n
+76.53543 348.3071 m
+532.9134 348.3071 l
+536.0474 348.3071 538.5827 350.8424 538.5827 353.9764 c
+538.5827 417.4724 l
+538.5827 420.6064 536.0474 423.1417 532.9134 423.1417 c
+76.53543 423.1417 l
+73.40145 423.1417 70.86614 420.6064 70.86614 417.4724 c
+70.86614 353.9764 l
+70.86614 350.8424 73.40145 348.3071 76.53543 348.3071 c
+h
+f*
+.909804 .407843 .14902 rg
+n 70.86614 348.3071 8.503937 74.83465 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 406.1339 Tm /F4 9 Tf 10.8 TL (nn) Tj /F2 9 Tf 10.8 TL (  Titular de um direito negado) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 391.9606 Tm (Teve o acesso \340 educa\347\343o interrompido por necessidade de trabalho,) Tj T* ET
+BT 1 0 0 1 87.87402 378.3543 Tm (responsabilidades familiares ou exclus\343o hist\363rica do sistema.) Tj T* ET
+BT 1 0 0 1 87.87402 364.748 Tm (A EJA n\343o \351 segunda chance \227 \351 repara\347\343o de uma d\355vida do Estado.) Tj T* ET
+.929412 .913725 .996078 rg
+n
+76.53543 264.9685 m
+532.9134 264.9685 l
+536.0474 264.9685 538.5827 267.5038 538.5827 270.6378 c
+538.5827 334.1339 l
+538.5827 337.2678 536.0474 339.8031 532.9134 339.8031 c
+76.53543 339.8031 l
+73.40145 339.8031 70.86614 337.2678 70.86614 334.1339 c
+70.86614 270.6378 l
+70.86614 267.5038 73.40145 264.9685 76.53543 264.9685 c
+h
+f*
+.356863 .129412 .713725 rg
+n 70.86614 264.9685 8.503937 74.83465 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 322.7953 Tm /F4 9 Tf 10.8 TL (n) Tj /F2 9 Tf 10.8 TL (  Sujeito interseccional) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 308.622 Tm (Ra\347a, g\352nero, classe e territ\363rio moldam suas trajet\363rias de forma) Tj T* ET
+BT 1 0 0 1 87.87402 295.0157 Tm (desigual. A perspectiva interseccional \(Akotirene, 2019\) \351 essencial) Tj T* ET
+BT 1 0 0 1 87.87402 281.4094 Tm (para n\343o tratar a turma como um bloco homog\352neo.) Tj T* ET
+.996078 .886275 .886275 rg
+n
+76.53543 181.6299 m
+532.9134 181.6299 l
+536.0474 181.6299 538.5827 184.1652 538.5827 187.2992 c
+538.5827 250.7953 l
+538.5827 253.9293 536.0474 256.4646 532.9134 256.4646 c
+76.53543 256.4646 l
+73.40145 256.4646 70.86614 253.9293 70.86614 250.7953 c
+70.86614 187.2992 l
+70.86614 184.1652 73.40145 181.6299 76.53543 181.6299 c
+h
+f*
+.862745 .14902 .14902 rg
+n 70.86614 181.6299 8.503937 74.83465 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 239.4567 Tm /F4 9 Tf 10.8 TL (n) Tj /F2 9 Tf 10.8 TL (  Estudante do Curso de Eletricista Industrial) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 225.2835 Tm (Escolheu ou foi direcionado para uma \341rea t\351cnica historicamente) Tj T* ET
+BT 1 0 0 1 87.87402 211.6772 Tm (masculinizada e marcada por riscos. Reconhecer isso \351 fundamental) Tj T* ET
+BT 1 0 0 1 87.87402 198.0709 Tm (para uma media\347\343o pedag\363gica justa e inclusiva.) Tj T* ET
+.952941 .956863 .964706 rg
+n
+75.11811 130.1181 m
+534.3307 130.1181 l
+536.6812 130.1181 538.5827 132.0196 538.5827 134.3701 c
+538.5827 168.874 l
+538.5827 171.2245 536.6812 173.126 534.3307 173.126 c
+75.11811 173.126 l
+72.76762 173.126 70.86614 171.2245 70.86614 168.874 c
+70.86614 134.3701 l
+70.86614 132.0196 72.76762 130.1181 75.11811 130.1181 c
+h
+f*
+q
+1 0 0 1 82.20472 138.622 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 17 Tm /F5 9 Tf 13 TL /F4 9 Tf 13 TL (n) Tj /F5 9 Tf 13 TL ( Refer\352ncia: ARROYO, M. G. Passageiros da noite. Petr\363polis: Vozes, 2017. | AKOTIRENE, C.) Tj T* (Interseccionalidade. S\343o Paulo: Sueli Carneiro; P\363len, 2019.) Tj T* ET
+Q
+Q
+.117647 .227451 .372549 rg
+n 0 0 595.2756 39.68504 re f*
+q
+31.1811 0 0 31.1811 70.86614 4.251969 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 110.5512 26.92913 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F2 7 Tf 8.4 TL ( para trabalhadores-estudantes.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 110.5512 17.00787 Tm (Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+BT 1 0 0 1 110.5512 8.503937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 523.0147 17.00787 Tm (2/10) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+498 11.8898 47 20 re
+f*
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 527.48 20.3898 Tm
+(2\0579) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 22 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3286
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gau10;01L%&]`f%.F:$8`^'kC+NX2Kj1*B/Y1G"eGWP5N?XO5Hku*1$MSAd2+27aY8J&1Up0G_HAh7Xb/p8'+m4LZ?'"int?gS\WGJW.K(JLXk@`sGcP$S",c7`529ZeQAN6=U*11OS11.bVm]kVP"+Yp32Q8)AhSnaOs[,@@rA^3?[[bn3[&MIDVor"l6od.p3m?!4I&=r;7c\5muRW5Oi@`R%9?/=9QG5fDDlgmmgN.#4&;s1U\k7@%-fU:F[LRu1pL7N2+n;:N,ZA\1am8B0o;S[IT'3-fj&dT7o?s;RG9coh!ZA^/FWaUqK73P9A:)[nt+u6tPXl+#hQk2C'$<8cWnj93'S`7P@d(.Yb@jn;Zj-`Z-/>J"aR$#J26M!N:%'&oNMo+6Dk.SEOcardM5?,('m&.\ffO]f"*OG]QfU2A?fd9,b:U.e@r65em1/UK&i]S#+0A5OW='W#&O58*,Tb*_7!a0JB+HSn?YV0)p5Hhf(*mB%=#[V%1N[9OS,>StBC</V5VPK#Sr6.Q(U*%FD']`EV?emSD^U(Q(GBLN;QYU[<l4<6oLL7LIS'+K?LZi(hd]I)`X)34Qd`X1C[V+?gh3]2h2l:5i@=-aY*U;Lc-&d;W2-/_=4ZKmTm&ih%=u/Z!n`FhR-BkFp.@tIOXm>_i3n/B#N]ScC*pRparV3[<rAY8YcK_jIh.W5#*,?SL_)@88fV(*&VR^]18[JH_P9UId)r'-@c8DABDJ&(V,M_d%VLQJKZ.T]rX#SMem*)_`I$th?k#h`d=Jj"o%/\-$'k18%\T.;1]rOlJmTbIL.@E6hN`GRTWC's"EK\L^^NJAXCg9Ib\<e/=OF,FnMQ%I3EuYLX-b<:*O53sWr5Md'@VI7KR#cPt=+1X*;B8SY4U'Q#$,p^Z,?k%*+a_g7p)-3:DMH;el+0(km+1"O:/\A8RY0qp#97]5.cce68dQf,QS*YP=_S!n6`+E%n<T;VFt8iS\2KP/XFVqcM:@Y=n>Cs%$Mc?<U^>A@Q;stS<_,hn\^qR,R\rSDGL"nMUbPJ$M[d"gMJShpbt94Y-UOh%(04G^*_@[tTI\)q>FS/AHaIIY]m^g%C3?k/3oNR(/)5ga+Q[1U?DmoRChh,I;fXMh!lnSBjCY5eGV&"4Hur#GRZHP=X#hlFf3p\Zff7+D#=jqT$@sBK</OIKEViJMWIj:N<Z+oHZQ"7.^nXR'5ioeEfcqqX4_n;L%8q(LfD;SYYos4S9<+/eTft_jB7I17AE9LQ9#Zufpai\QglCbqm55Y<7s_Y_<_r(GkPg@1Z>rGq\ME!Wet(dG%@.=gb:O1s&\#1H;ut^8@@qtVVE+FiET\b;gUEppBjt!oq%pBa%>UW5%6pkM3NXRb$@4KCWoGhB&pE>6knr.tMm*Yr!2%I86QooijqPNHg*H2]/7pf^GY(:+A<WNVeF*[r=V;r@b@5!pfn.8?4;*SW7)7)[2R-q;-"meF5)dsLCI6uK<3n:sne='\pUdMGf*gLdOeAL>*r__CIMm$?4Z3DU\[($'#;61[e7c/2Ea6h$VX"N>BeZun:-h^YltPG,=s\]tPA$;3iIp.BRN;@Ve>QOBS[sI:5a",o>c)!MI-,UFEa,:SZdZ'urrGXU1_KTTeHmqoD80%H=@6e6GEc0ZrH%#@K'%O;"Ul6grYqD,:#/*>eL'on*>Mq/-Kc<\piQ.NYQtN73k@6A:i%c[pDf_s/>lXu3La7L@s0YqK!%V^lipV2DNG#-1R1eG04P=05lll-Ppg-k`C9Po.X+H:(Od[=708f.r!#a2DidEc#2-l:XF65T2FIZQ>FS_QGndUjY91c"B)&iOPep-JJM7_&aKkA<&:UA9ed$;W*A+F&LK:VM7(6:4)u&>KB;ONgIa^L4hI/(S9EfatKZ[.RM9WiP!k$juhGEBl.VS)+C#?/Ec')eU6F#^&RV5eKN]hE:\Z2-uq*f2:B1!QU%=kTrL8iq@WVZd?".hL)d,Vao4e"F:>]MF:#31r:oqT[agM>M\+\.p.Z6R$]LX,<^(V0"4"QND>o&.Cem--2Ya$A*Ad+2/m?hZ'6F:+4(g6b;o#?_1OO9I2a>gr6p+ph;SDkJ;I1TGN'rgHrD/iVD$!]2OfW2a;-3_1HfK.I'ba;0)6m?(qb+Ta^W)?Cj@$JL-a&*#MLSZ09C$03PhHAqPPdG_5E+?E.oNr<2U^D:Ak:N*;6G-,Ib*p!N1F?8"7c[O91'6`bYQ0hChX2^e\dN0/0f+UU*c+@S?_UoC_S:N?e_rEC[KC-.ZcbPg3kbSG$*uZ$lf%1#8;g'(O1>HplQ2:,[mXX*Dg(T48?!b5`Oe]cf[C(9tciQ?fioLCk8nXmW"1@<HTh4,:,4?q@?8W3er!gA7+`WRoi*u!DVY=S2d5E2cAJl^3A.c+5(;LTjRESYL9D$k+7ED@)COUglYq2YtOtFbP.Na]uQaAJ?,%Q<W68ln#4D*uCA?m@F2V?a%ZH8l74a?oZ?8JnY/nM,tO-\^CcO0`B,"5(gle`*:q/Q](f\+XE54bC*p40H$Jn*GgFu,f%XoAnKVl?DSLiI'R:7^[0*N0Ba?1#6):Crdu>4bdSW9`e$(-DUs[8\$C9KK29FG+>"6V/E]>*#(]BDQ@VlF-]2ctO-d`Ebp)W7Z;Obiq.b4J,o%X<'G,g:i:TbNI4e-+[i^PRG(``QiAdW7:8&``uFh\gDoE#DtP_7T(aeHu]Ya(h^LB'qrjJ7S>PSX#T5C]0_W+rf`+=N^nmk2Stq"W$=U:TF/u-UGFDd$?RJ$GXYr#IkeQ%$_F6Erc_<O>!tuOAd]qO'cB&h!#t2tY4Lb`Kp#U1,+41HZ(8"UZ(6;GFO0qMN7<OJEX5mFf_V=0a!G5tnRo(%5N,^>A]4eHRQ/C.@riN;%9+BS[)S9`dOFgums</P5C`\-c]9I?YFL$efd@IlF)C4QgJ!+8>TYMm^m,\^hDKHUQMoY<@XDHt1hY^ul!HV\I/&*g\+:8V()GBq_bl]ih'coC`YJ<k%#oUlC2TN0@H6+jJ:D+%BT0s>@i9W4T)-r.*sEuRZc`2%)VXr]2"u-X$1=^DY*qR.>:#lhTjpYMnE)lkoKV+GcXCaPlS==36C?OT;X"NlPJioi@XiPTl2K-c9lVd,Ha4lXWg(B+9lm<I@VjZRqdtT.bbhA&7k3)VWK\R6*rRjkXQV@mp<0FEJ$4X*I-D1/[nK#P0S=A4cNLX[5PD&D>Bj!=m?u":O(f(MLbp3dk1<fuHulLYXl3?Y[o.7Qhqtp@WCMmS)e%5hI;F-(7O4*3[e_ZU3s0R~>endstream
 endobj
 23 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2502
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb"/'bAQ'*(>\:,$=7ur:8Qg.C`;QVDIh*Wj)fsj/A*E1Pg)H;'iK,lK7*TeihK%IMW52PC`BU;/+W8d_cu;q.S^h0H1s8P'(X5/]Y*6W$aO"NY,EPfhoOo"5s=h".7+cU:.[d_nk>/ADGfCga!K8.8ts"r_J2GkUJ_t@8=bt;:CC^O0<Xa6$fYWA:X+tA;*FubN&kIY,#1\_AQWilq6DV2pOQTKoC\$blQm]]#e@+=p%\R!X#K*6f^@IJr3C%GGo>=cOQB!<r2IT:\2VV4]<Y+W68_,<Jcf\f.p!_.d8EjhKEW>aS`@G:,NmaP?mZUu22ZOFE)*6Og(EbP;aQCn+3M,OaqBS%.Er0a<bUT-N#fTo)+\D>ZO.5N`_l.bN%_BaUO1;0%eXhIEtX<U=gbBQgS2uOI78$_c/jpaZKf3'G#c4ob@22eq7M$/i[$SW9KOWk.C_:-r:0*)C@_1^"%/U`;d6KkW-3DPMJ^E>1s+q"Vo;LX=Dk+C;P68E2=&!EH/Y`J2'1<`NS8VYRu%a,p3N@O12L;)r\Cc.b.BRej]h;Tbt6ZCD:Qj&HB6qs0T6#@UX`9sK]l;&7jr>OQZta<cfG#u[b-@i4QQOcRgTj";e8B==XEr+liRRCb@nA9S2L+J>HS%LmR*E(B;B8S-YMc7:t92h<KYI:+''*s.q%13/t3'EDQA*6'tUI;X?`T'lWA880<-cM.DBQ6-I?Ci+5_[YqRanZ[TaCWf^#]Q)i5mPB`;;9_t87?6EGHdYOr!$NSG>pr^If/(E(#3G6%NS/KW_8<^YbV<S:Z>`<%tpJpi)=9UXdh/Q)f$[5+,+q0-rn./DKI,QN%XQ[.'@rBf]l_]tbhQ&_u@]_O1_['35m%dX!MPe^IbI+;go?'B+E?WtD@:hAUoh#K15Me[X%(]>)"m&F[Tefj_l(de^"]S]tMTudj-,c,3n[mebF,eabO7:sQ9?T)Rng`5d"EX;"s6h?ZMl63GK.dNV@#Y:Rb#T"9,8PBDaS;%G>fsV:ITr:ZU.CMOd;D7Dg-5iT$$AAc"Ep05Hi]2*Z5o:@dVPV,YJC8>t0o.IrR\]:R$-FR0-4D>d9it>1Z`ofcN%7'1VO'GXT1&qma>LsMf$,a(<g9nfWfQtu(AE_H-mGY#EgSW"#LkYhkMJE%(nNrc1j]WgWRH+XRTX*=)PuhkA1[uX>cKg+&Kaqp(/&^%6(/u2aXK+mGnq?48D+YV$,___KQTbiKF?0]*)fNd7m.:%P^O<=,cB:Rj=-DKB$<HHee)8!1UB@sj<,HE<^Loqr&;e`L?78lSQ:`l>l&=>@D/3#iuVNk_*)S-.2P19bCb/eD=X!JEELD>!i'CG)4A;O]Irf5F1cXu+V0bWf?]'O8pEQgcd2ShAJigHm.6"h5oc=?H?SfQdnTQf2C)OhJrkD5%Ja!^Y3UI@eDZ2Q0`a>S7ipJ";WWDjFd>NN0j1=jJlDK0QddPK\qJHY2u.V52_.l?ID>l[-S1@BBL6FJ`rQJrN&Qbm4uR_UcGYM%672S9cMUjH2;@oP5!$[)[-_8'n"R_3lQ,&hg-g!"YG1)udi#!V1Q/%ioL-eZoj5:F5B[5E!(I38JUI&@;RDBu,TAo"i+CrA10D!$XWI<2d6>*#@'GX__bP0T;ht'<$K#X@9FFd8VM-Ib'MV1@G>W`/M)-#JHDZCR.4V^uF"P>EQ:g?=UkO\Om.7TOZnOp\@m.eC@m.f.7N&PY+p3SQ=AN$Xo@Ql:b+>Usk%gJHhqVj/Z.9mU'D4_?I4X-qdu2!=qVoh:aAUglFZpaBYfZnbq]^qNqlf2bIi_XkisCG)Z'n1MDM0nM>^chM9l0*M,d#^-j:QH>(TUsl*Og&8b%Y&W$10&r5G+7,$'&FnVB^u5"Qt2[[-PPLTlF4hFc:0bcfuG'TGkH->DQ;09Y2D5>e7'12\@N.X`3iX$-T)Q9c=btH+0a`mCnI)f54J1>ZKX7O!3peX,%.1[;G^7i)H\*g%[DL8:7.KR2P&cZ\LW@VXX,7%,iT>MFu"W'^Oi\67Sj7>1CE).ZNBXLo$CF1RA3c4Vc`l=<f9Q4A9[_]&^.YW,p?:%1lD_S"QVq<j87J=>RR1>15k0.52s5M*XJ>RE(&.;Y!fY0jB8I9Ohjaq2@h@LRn=k#D^bR)]%$bW+Be#8JgH=.ND]8:B$(8.5%h[/&Eh-lg)%[?7t,@OP_d`ihlb6S0P,h%H^DMD8m6MHd%k_U?"[kfeo((onpDo^:GG=6#IdjRBJ,KfbKa3E+O6(ajb8tq$E(IG!*dF`r@F:L1Z&X+.7J$<Rok(<k$S[_TLdtX=9tc%jkq.W#;lrQA7"9D_")!HoPpe6135g-c]]F3]=@])"G7CUutgsaj67]*34]+=L1UG9g8?L=,_PJDStU#*jF_MMb,VdTi/fDhcZ1$Z)8j+JV/Yc(u=o8an;!BDZ/Z9Vq.b$@gU#Rb!,F2bPYi*69M7aq8Ya=6^'mN_J])bq,8[/)QOG0diRM700,M5+cH@&&^[$m~>endstream
 endobj
 24 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2626
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 26 0 R
+/F2 10 0 R
+/F2-0 27 0 R
+/F3 14 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
 >>
-stream
-Gb"/(92jV:'#++DaRH0A!Z1N1a`ARA(*$"!CM\;Tk.mgp(*H,VeCF^`-N)m_X7Yfq9q1+O@"V"LZa)@$r%bUsJDrNZ5GL*OmgD+h@)+`QmXRkQ@I\7q?d)&36UN.28HU1@&10ce+hsYGpdr@+;,RZrTcuTq)RpqWC8iA;iU5;8C;b%<g?[p0SGJ?27QX4F@n8kAd@*W\>S+)IZ%i&u:K@uAcMokPH[`X.p]5?)B6Wb9ji&+-g%D3li:g6ZN`00\!fJ_9psn+O=fA;cgLWWM#XhN(o]Df\e8L]BR\PNYPk+n"Oi/(PH?8.Dq]=(*RgBdHegOpb#[rqu((qk&if/En@tBpH&6qgW#"/T!a`-1CSVR]51]]=^`'jcF#W(>WisWEjR<b6IZZih%!NrGER0!:kjS#oc4_4%&Y2VRL:)\?)iP#b=>G*oBWf5p3Rkpm.q"0#)'RUkg?5'*\7r.ap+j-HB44ssY&0B_@?Y;G3#Zs?6+?1PYDc;.tp'BtlX)Kf.?/-.cS'k&`S,.2C@@7g@P26N`i.$m*f.)MZJI^OI/,ZNl,dN%cIDkR\41%I=[$%g;UZFL[X##^(1:[7kDKuaCDbt4.bg22&#.n$sU1Nn_5uh#XdP=Rm,YRM3EU3$[r-adL78[:ELWh9<mf]Y9TNuCE[goPqUnc8:p@c'*C:eELbat.sW$?7fTUBd3AM+'(Xkngk8sX.r?'-]TU>$ZHgJjQa#^h4`!20WP25k[7(i0V+RhF4b5pZSr2o+eALc4+g&_)mR1ZeZpHXJ>D0\rquk3uqt5jrZ`!s[bKP*T_b:d`_<A5LXo2d1sIL>#JC!-:<a>Fit_IXf4p_(@A:[8at,>]CC9"!iOon4XM>k4]]#(`:+W2=RL4FG]A2#-e2.L`mJ4$g&96#H0X"$i>)&*566K"[Y(q+huK&15>d9MW<6["Dq/W$#$86OO+_1+/o,Vqp:0\E6SGYfM7cV;d.6rXikHn*UR6@dfRrW6KUk*Fr;)KXHD<aR,H;ck[hc-UF3.T9T(ZM<?,(8rcVmCcD$bQ/4A/0q(YX2EK2l2]Tj7V=h_=)fV16FT#W?ce%Sk#.ktl2CftnG?u&7Qm"Z-K&pp$C%H8iDA]hiuL/V4C$@ciD\"*U&Wjbk$XI>bHj^)4OLG/O^W5Qt.PfC?;.fX#%.^)5-Mr6).D-sk[A]2)K2TH&oMW5C+?Y&(O1-\g,0WnG$e.@E"1)XT'/YZopL4U\3PL<`I4YW?qOJ];&^PjbT,,#Qa:j^4,p47&U]UH`X\Q@D-iQJqZ/d4W8>eU7l0=!!Q#I.d0Hi#g+H$[EKD4*L5bN^3nHu3@UiUsbO:p"S<pQG9<5mT^$Qo7[I]A"d/P=?3<c-p7q+J*p\bMdEoX6Sj*7:-R!11VY@JTunD?,ubhKpD$G+FV2tQrP_Rf_jfU,e_EbBf>9OM:[23g1%E&=).8[9mSERJW7pV'6^UP@qGTOQbMk*KWn8@U(8r<^OBSH*N4XjHVKN!K+UY/ccf@<(,9te`U9[k,"3:_rijqq('Hg%f(H&nHI2;#)@sWQM.!tV)GNaB-[-`Ep=#11itUZ,;Wksb60lck3u+B0NDG^apHn?"nYG;qr8su@CP).j*KC<R`*]TY8oOorOM,Ia1/4\U#-r,OG8Y$%:'nUeEC.4ONc3Ll&=k!ZJ_/Go,Z-[C,hQiB"6+@/2k^gO"%sT\C).(!.Dr9qU(0V_k(0=2+#S2Hf$;f2f']D:hX5X?=4-AC[V$XMrke3_&_R-^r/^g3;YH<LIks`Qbp7-Q%`:7i/d%,-64$YLq%LBHD!fPQnnGDF>V5;W==g't)[G&h<Hi2&I%eTQRGW%]]CV?Y/V$ciFkf!=)hW0U[.i.\Qus@2*P!aiPp;lh9:Fn8@G?'gUlq#MG+V,oShsA#&l97Sbfi0@>jcEdW]YL'C/MB*!ul!6hg$,fkW5UC#J0UClHs()O8]!5Dst09a/#[YnA'=;WQ=L=D<n]a3c[.Teimu?X1U$+\06;&fC^6UqH<^*+@=]#Jj3u,)6P#h<Q\Pm.-"MDE-+tAcJ#!LM>TA,]SalpM%IB\K/=*fG=;S\YrhQco>pEODI5=]$PYn2@g1mj]9@!s),0$9%=21%@+m<kb;p]]FpqS1ap&JIM$iL'_73>pZdb)Q\-[sZ;6Sc.DDZ<qeq@':%8:VM83ECF3m`LTG#Zs@*s`bm"ru2s3oI5[5J?W2cb&%KC.7%NFL^6gO1Q)*VK(Af8n-/W2(>LCY_]k"P/BNIC"IY>V=5qJMd8C71eNiV/j<RTs0,UQ3.gnc2`SE3rU8u[EI%ahpt)FmWt./W&oQkSo)"$or^,O*/WqrC.u1lNP/1]m>q@c52`98n@r%@Clh\E'/2-%uO+:0/G)h6JI_h0Ch0*^s[`4'*1Rt#KPMK1)Fl,b'Y0_6`F6i?"-LP6oB;1N#1d394IMla?9X/f%:b/BIN?\.!2B7F>RM%UCRAop2%$MA5#mO8ee.OOofZu2jbPH+Zn\6'C^g*5341u`lWMsHN'(E>F8ddCd(rm?%5'.72C/&=\_m59P173Arp7lt?p>_R-AQ,$P5H-=1:35YW^V-\j.aQtk?S)"hMc`S\2k+[-pV#ch8<ha>"Co(*0r"h&0`)s4CU)d~>endstream
+/XObject <<
+/FormXob.6dad61813444481a6e0457c85000eacc 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
 endobj
 25 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2684
+/Length 6437
 >>
 stream
-Gb"/(997ge'#+6E'R]0d,`F.7U6NhDl#\R6f\Q13]YPZc_NsGH!a0Oh.p3#Nnb\H3.GF_k@qLbc#5fl@`N#!lpkn3ui1KnuE_H%N75$8RnW[&nifZl:rIZ_'$W\NASk*<GdCBt0\1Ef-]%]Z+-Z^o-P!Y6['MGjV.*\0AREVV9[/"86NVLQM?@PSX;dZbFdLI^u%+,C)Z]%Q";o-,$eX"K]>ucA2FRe+dk8.2MU@1KO?+W+EIX??8k@V=FH?rj->MGP(Dm]@/X'`O,Or%8a_fi!m<=i(8"LC*B/b/8+GKiuOYTuq#b`OI&H/["FZ1^\L$-m2fB6-M31Ege('/*H?;jC,Q0[=ef2)-X.'dk>MWal\bG%X;h,BM+M/[;8"ElN0=j,6QUo#t7cGdHjR4!Qe)[k2Ia\hY;6oM;eLZo7QM_FngV<19h^`o)l[g:(X+b0%X>jFBJqfcj:=T&Mop.P'`]h\Su6f4-']Q7Ln$"h$Ei3NrsuRXRc*HsM,+g^+5129W?t&Z*"-pramC4G9rU@bu5eaM!4oPJG"Y[-QFAG2La%dMM(Hko;Smm+V;>.(-8$(;eenX"S>Ng;!0-O#^>IF##$`1FGmeC\W`D*.\6?O98kSlkR55fD.F,c+[uF_ma@\r6).o=LSH,C1,fCFjA?SW*?iV+h9JDgQO'8Srp-,2:k/%k7f!)D0KqEnS<9uXg!Q;1i-l-)lTm-FTk#7;ciqS\.q_Fg8:M7fY28ubt\6>#VJlWcgX?$YjX4.(E./u<!/:EAVl^5D&6o;lq%>PAMn"e'gbDGOX(?B,UAOa4Q3P51G'oNEY2iMaI%&u=3!'A)M]b-HR;\2@1WS]Ju"oR%C1;R;0NW_mt,B4on2s/1>)Y5#?e:=Nb+DE6$r+t/mdZ!j2)Ob`5)k("j30$rCW2^#V'AM99Po<s#!@INY4MVS54Z2mlm6FWamHAN^6\iAH`l*#$JdV"H1U3:u?jrOX,GsA.cnFCk<gD%o<EK,*7GZ&]b#:8"mW?16LY!5eEGl8!3jmO@:9^Z:!7a[*PFg#HpKS+,\(j+K%.$o1t>F)N;_nq,#V/WC5_!d)L'fqm]%O#G@Bg1hFN]Y)uAI4EMnOQT2ZFFSY3*,l6%'6+Ck%NuOr]LR0D.5?_2SZLYti\#YF#h77S3^JkF4*>a((F6`pl^k:)[SfA*'V+Tsq\'o,q2-no'G%gT84qFOUl,Ih9XZCQ9g[Da_5BKZcg\&S9^;1l`j:nC(C/V6ShjLA![GB\'"64-BK-m[(HlbNSet*@f^k:B5iO[`B?itb^4`9l)"V74":=&-`]eNX!DsP7(],$g?rIO7$rj9/l#8p'OiMcMrOE'pnACsO(7A=D8cJ-@)HUfp.-hhip*!B(=TaD(Bo"`9AQcK)BgWk>JK(,jsdYpA@X?7^4Qql6u%nPOo+9c>c:&>V@'*M0ur)"8U;J>ROi8Ou?[pA[O3^^+\^g(uHUMD*VWiO..c;+93GlYb=RB@Ro3&o3t[.PKg4g#<"6Q\VA-<9IWa2Vu\Gojt]Z>DeZ&qTTVD\<#N:mq;Mh?#+-F<P77s3k2hIbiLjM7;RcHts_J[`ukdf-OR'^2r1o&af)Ro%6CW_forRZ<a--GO-=<L-UOq)5M6=Ms^@24:APal26=irMX?W<)IgG,*RG\^rYVsE=<`#GIC^>UF"PPVqu7r[K,0$g<Kksl'Bg/a'LCMG%Vg"j6[>H[`%e%ngQac+oNI`=J4jp.!:c&6bW(Y*k#Q\)csUo(*ge'E5nhu2r(hi/f&eTjGdOk6#.p^cAe;bH8ds33'+[NmJg?K4FV%W`iT,00rH6#YM/XI8XrT.;<,58D=X;l<pdIoPcUnqp!Fq'mu05d8M1@JdXH$/4?l!FE4l*&n&,<O+)9uij[OGt=KkAfS[\5d<=]eQORB&u%]:'i'3g&S>T^;U8JIAl8Mi6*UgT@tj.@IQ.9!Ct7,1EbPTQ#/EA+:*'3QYomKHVngNYVtY98[VL`hV1L`i0WJV3Ye1>*3L&I2P#+l_G-XF5-c%TWgXHiGg^S(5M'OIms$=d2_.L?<Z6A/FZMcDT34)9?)=j_+ufAqeF]20$qX?X/KQh!`&m4OibBa(Jhp`XUZa#=lM?m4A%%mf7oEq(-W%-ko;^26MGklg$qB_ElDfa\,T76H=K!;o(<Qm86YMD2!P1PH-5p[__VDNT)pp[UPci+O_1SJQ=NqSR_d)I?ok$QfY/&5o-1b@!?jYMHHSip,J,n%b&F"g?Md@TN12qZLZ_SbKuhr$8r#Y3SPH_L_Z0?9P;b:+aSb682Aj0`Ef^UNb+DE6$r+t/m_J*h\10"(C[B`WofA71=$O]a6Kh+n?lP\YpeY9B8;,nURTQm^"le7#+.;[AR<gHqhqrP0:pQ+_\BC7\*\%o,P<7<6q6Vq+'ZLJ#0j2s8QY$n(tm&T*>gUdMY'ZEGk`i$nQpl9Ic1gF>o3$dfUjl'1Cp(hlgT2FG*XU#ij89rA_V)%gYT.CK+5h1<$;,#ggi</Kdi]Q8ZX@6HIKa,e"7/X6RBKcI-!J!8g2V\KL/j%jL0/RklqLHc=m>\*iVCk8f=MKUFRQ&NVJ@tTASO;Vk4U-Z"Ij<5@PW-5_<17n,$t^Hh_14q[\/-\5+n9&*(A@2=J6@k8Q@7[a4=g_a%Y4Pg&K;Vj9R@RuB\e6$_&%G,lEAM6tXhs(luoQN~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.909804 .407843 .14902 rg
+n 0 813.5433 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 70.86614 823.4646 Tm (Trilha EJA-EPT  |  ProfEPT  |  IFC Campus Blumenau) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 533.0227 824.8819 Tm (3) Tj T* ET
+.909804 .407843 .14902 rg
+n 70.86614 759.685 11.33858 19.84252 re f*
+.117647 .227451 .372549 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 87.87402 768.189 Tm /F4 12 Tf 14.4 TL (n) Tj /F2 12 Tf 14.4 TL (  EJA como Direito \227 n\343o como oportunidade) Tj T* ET
+.898039 .905882 .921569 RG
+.5 w
+n 70.86614 756.8504 m 538.5827 756.8504 l S
+1 w
+q
+1 0 0 1 70.86614 717.6732 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.5 Tm /F2 11 Tf 16.5 TL (Aten\347\343o \340 linguagem que usamos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 667.6654 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 11 Tf 16.5 TL .669302 Tw (Muitas vezes, a sociedade trata a EJA como uma "segunda chance" ou um "favor" do Estado.) Tj T* 0 Tw (Essa abordagem precisa ser questionada em sala.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 617.6575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 11 Tf 16.5 TL .774902 Tw (A EJA \351 a repara\347\343o de uma d\355vida hist\363rica e a restitui\347\343o de um direito constitucionalmente) Tj T* 0 Tw (negado na idade pr\363pria. N\343o \351 benesse \227 \351 direito.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 567.6496 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 11 Tf 16.5 TL .527036 Tw (Quando o educador muda esse vocabul\341rio em sala, muda a postura do estudante: de grato e) Tj T* 0 Tw (submisso para cidad\343o consciente de seus direitos.) Tj T* ET
+Q
+Q
+.996078 .886275 .886275 rg
+n
+76.53543 485.4449 m
+294.8031 485.4449 l
+297.9371 485.4449 300.4724 487.9802 300.4724 491.1142 c
+300.4724 536.4685 l
+300.4724 539.6025 297.9371 542.1378 294.8031 542.1378 c
+76.53543 542.1378 l
+73.40145 542.1378 70.86614 539.6025 70.86614 536.4685 c
+70.86614 491.1142 l
+70.86614 487.9802 73.40145 485.4449 76.53543 485.4449 c
+h
+f*
+.862745 .14902 .14902 RG
+1 w
+n
+76.53543 485.4449 m
+294.8031 485.4449 l
+297.9371 485.4449 300.4724 487.9802 300.4724 491.1142 c
+300.4724 536.4685 l
+300.4724 539.6025 297.9371 542.1378 294.8031 542.1378 c
+76.53543 542.1378 l
+73.40145 542.1378 70.86614 539.6025 70.86614 536.4685 c
+70.86614 491.1142 l
+70.86614 487.9802 73.40145 485.4449 76.53543 485.4449 c
+h
+S
+.862745 .988235 .905882 rg
+n
+314.6457 485.4449 m
+532.9134 485.4449 l
+536.0474 485.4449 538.5827 487.9802 538.5827 491.1142 c
+538.5827 536.4685 l
+538.5827 539.6025 536.0474 542.1378 532.9134 542.1378 c
+314.6457 542.1378 l
+311.5117 542.1378 308.9764 539.6025 308.9764 536.4685 c
+308.9764 491.1142 l
+308.9764 487.9802 311.5117 485.4449 314.6457 485.4449 c
+h
+f*
+.086275 .396078 .203922 RG
+n
+314.6457 485.4449 m
+532.9134 485.4449 l
+536.0474 485.4449 538.5827 487.9802 538.5827 491.1142 c
+538.5827 536.4685 l
+538.5827 539.6025 536.0474 542.1378 532.9134 542.1378 c
+314.6457 542.1378 l
+311.5117 542.1378 308.9764 539.6025 308.9764 536.4685 c
+308.9764 491.1142 l
+308.9764 487.9802 311.5117 485.4449 314.6457 485.4449 c
+h
+S
+1 w
+.862745 .14902 .14902 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 79.37008 525.1299 Tm /F4 9 Tf 10.8 TL (7) Tj /F2 9 Tf 10.8 TL (  Evite:) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F5 9 Tf 10.8 TL ET
+BT 1 0 0 1 79.37008 508.122 Tm ("Voc\352 teve uma segunda chance.") Tj T* ET
+.086275 .396078 .203922 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 317.4803 525.1299 Tm /F4 9 Tf 10.8 TL (3) Tj /F2 9 Tf 10.8 TL (  Prefira:) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F5 9 Tf 10.8 TL ET
+BT 1 0 0 1 317.4803 508.122 Tm ("Voc\352 est\341 exercendo um direito) Tj T* ET
+BT 1 0 0 1 317.4803 493.9488 Tm (que sempre foi seu.") Tj T* ET
+q
+1 0 0 1 70.86614 435.437 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 11 Tf 16.5 TL 2.269681 Tw (Essa mudan\347a de linguagem n\343o \351 cosm\351tica \227 \351 pedag\363gica e pol\355tica. Ela posiciona o) Tj T* 0 Tw (estudante como sujeito de direitos, e n\343o como benefici\341rio de uma concess\343o do Estado.) Tj T* ET
+Q
+Q
+.858824 .917647 .996078 rg
+n
+76.53543 329.1378 m
+532.9134 329.1378 l
+536.0474 329.1378 538.5827 331.6731 538.5827 334.8071 c
+538.5827 404.2559 l
+538.5827 407.3899 536.0474 409.9252 532.9134 409.9252 c
+76.53543 409.9252 l
+73.40145 409.9252 70.86614 407.3899 70.86614 404.2559 c
+70.86614 334.8071 l
+70.86614 331.6731 73.40145 329.1378 76.53543 329.1378 c
+h
+f*
+.117647 .227451 .372549 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 82.20472 392.9173 Tm /F4 9 Tf 10.8 TL (n) Tj /F2 9 Tf 10.8 TL (  Perguntas para reflex\343o docente:) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 82.20472 375.9094 Tm /F6 9 Tf 10.8 TL (\256) Tj /F1 9 Tf 10.8 TL (  Como voc\352 tem se referido \340 EJA nas suas aulas?) Tj T* ET
+BT 1 0 0 1 82.20472 360.3189 Tm /F6 9 Tf 10.8 TL (\256) Tj /F1 9 Tf 10.8 TL (  Que vocabul\341rio sua escola usa para falar sobre os estudantes da EJA?) Tj T* ET
+BT 1 0 0 1 82.20472 344.7283 Tm /F6 9 Tf 10.8 TL (\256) Tj /F1 9 Tf 10.8 TL (  Como essa linguagem afeta a autoestima e o engajamento da turma?) Tj T* ET
+.952941 .956863 .964706 rg
+n
+75.11811 293.4606 m
+534.3307 293.4606 l
+536.6812 293.4606 538.5827 295.3621 538.5827 297.7126 c
+538.5827 319.2165 l
+538.5827 321.567 536.6812 323.4685 534.3307 323.4685 c
+75.11811 323.4685 l
+72.76762 323.4685 70.86614 321.567 70.86614 319.2165 c
+70.86614 297.7126 l
+70.86614 295.3621 72.76762 293.4606 75.11811 293.4606 c
+h
+f*
+q
+1 0 0 1 82.20472 301.9646 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL /F4 9 Tf 13 TL (n) Tj /F5 9 Tf 13 TL ( Refer\352ncia: GADOTTI, M. Educa\347\343o de adultos como direito humano. S\343o Paulo: IPF, 2009.) Tj T* ET
+Q
+Q
+.117647 .227451 .372549 rg
+n 0 0 595.2756 39.68504 re f*
+q
+31.1811 0 0 31.1811 70.86614 4.251969 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 110.5512 26.92913 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F2 7 Tf 8.4 TL ( para trabalhadores-estudantes.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 110.5512 17.00787 Tm (Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+BT 1 0 0 1 110.5512 8.503937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 523.0147 17.00787 Tm (3/10) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+498 11.8898 47 20 re
+f*
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 527.48 20.3898 Tm
+(3\0579) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 26 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3420
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gatm>gMYb:&q/A5oY,#EEJMfQYW6Wi9X;`KPF7t$^cphU:!kj$M,[$n!J5^sT&QSLZ>=)mM1LfOa=L=Mc`&tUZk<[oeF;@)-cBqiios)^<%9N(Keh)4bQ!A7QReIO\PJ0G-HWpJ67S0HWG$3N26QRD95CmM2RbHdX:qS"g,S+\>Dh`R<euPRr:U[d'qW;*dS8,?W[X&]Okr*0KMSuq,$aQSqQd63[m@\%pToboIpNKP7>O1_k'DLVlK**W4RDci-[shD]<VqF5K2^hEV[e>]2?+34E<A`@WN]0!anS)W?oH&e'iE?ehThG%-\Vn]ul+P*05P\BB!AUMoBumP`f3sl\3KX2lTNLrK0]`c=B9$X,L%Fl7B=iB019W7p(p<P<Letd`d!9r/fsfQfd-^l[$YK1tYuf5=E'HMm-o!;)GmSm$miJiba*WK4m[*LR\%lkXJPEFjobF;)NLKnm1b;"HC+>'C1((f2Pn>Mnf8!P#crkh?t^E`K'>i]3\[%h2U&f]EMG%XZim_#a))[\kK$[.6^L]O2q2rOi/#B2Conb<5TUp+^!djE`3.C+WK$Q.#Y[i^=Q-;<(.W?*=c1r\Y5i0E5U9$?i3$JPI!k2B?cgm;(Aq0asE<*<uShoq'fo3E,Na8?A;QHlU6Ts0(5h.&3B;)CobljK=>t0"IXBSql1&!jK@9m2XEiahVaF\p.]l>\6m".?!eTj`9@d1L6,/H_Rt\X'"CJCi`&[QqBXXuS2Or6>CB]kj_hfKj%_Um&D)?D$..0F<1W6AX*,aX<VP#jCeCt#^QDib6G7)`*I[;n1qF%KgIAh'/N)NtO!(o?(O!:o0c"@2]<XUj\7P9_o%kCM3J<til/"LdU%h5h>\+[#o=34\7_1G&`GVNXCqP60gB,Qp<R>EtE#!+YL@UYh#&;q;LA8#)'W[&K.qOki6`^I7V+Kpo3P*\<"_iil0]s"0@`^K:gJsQ^b[iD4Y_@gQFG<IL+P)Lj>dk]B<YV=L<M/\\Z+=4<Z(arMG-5p[_4+)_)jH]4#O8:_Wh*diE/BhoSBC(\GTfWurh0rO\\ZlB\kV^T_DD-fdV(U2/K:1tR@9es\L?B&H@%g)H`@CI>j@Gc?+9t97rH&m<m=4<?bC[SqMBIolKp[\o]"33rcn2"eYC?`X>;6dXtVO?Js2'A(Lpd?3u%S1Eos2YC.?3$>UKi$.qQ2H+d%!]A&Mm07#a3OA5CF"nLeFrGc,R.4iqkUXO!l[F&jqbjB]\@mhdr5Bo]p+m:<\<hEBS,rs&!k!ugA[s"WL^p`#\MmK\UCVQ\BhL;J*N.XAdeCb,@j"oW8bDk"dM7W&5bJR4G_^bQ?4L:a3@bD_nf(h8u-5+4N%1\`2/e''CfKcuRj&S!Y-fYiF[4gHBr^j$W9AN\EK74HFN"k/;M<k:\38E<pl(sa$W$YPL6M!JTdAtERE?GH\*BfUa0na:<.9fiMSj+!##aB1K5ZQJ8]n#Wd<-/A$fC.kRPO_n$,*^.OY$DH`mI(F62X@B*#qe/"[X>Y%/8]HU"[=\cd9\@bm`S8=m8A'a5i\>8D7Z8DQ'6@R"Mn(V&)2-'gj.aB^P%\DEWu!&P/n0c`%%EM="^f2kZ<KPeXW!g^03\;klS-/s/4oc#<]Al2WLN=F%GkBGcXe&PfC+=$Bu?f\VB#Vc5YDU]g%U$e[Ld?]?[^LMB/!NAd'":)2Z"Id.`Gj=p>u"dP?)hX?Zh.hcr54E#J]^saf'DcD;,bLdn'"&m*8?HPO[RCA$F,nKe*[/jID?)*G@:nW]IL2Lq^b7Opq6dkbdTbJ`1fWiIfm^XZe[ronP=Vn!`WLM6!(V-4i$$e6Pr1]!O)iirNQt1Z%g"_L9mUeQ'!t4T9%Xn207#($F'$3n9!qUMV,FS)Y!_H4Vf3%jDchD=GR+NWB?.hDi^%JairN3=>DE@h,iO?`J\I*o/3Q9/VM2Ze5q#2EPB1FE;C*9GoON*A_7ZHX=u1HX?7,?Hq$YnIkp]9?4*;I#Qr$F]6[R"$+]d?t$&Uq']&'cQ""A:ggsdRnjQTY$m(ja1)\uADPZ__*E@ePXW()QWPhFP+$HW75'A6:PE@.H0],?[d6WG0O4L8A@-nZ6<@q,2,KJEg[IV\iNBgZh>,FL)!Nd0KCaj>B'Tb6:geH!8WlAUhIBLQ.[mW_\[EA&gQLL>WVN"KEt7JN)im%?3Nk0pV6j.?q1pcN7k@P>@ocPu3K@KLJepEkIHngN&5IQDQmAMt^F1R_caG94rJY^HcPU<nN%H$=UGHH'J^H[D]&hSOU)6%rqK0JahC"N)d$*K\_<^amH!7lGBCHtE,c;OY)gMs8[=`CtY#3>ur^2N3g["TF>;ben*G?A*N;kLJ]Pb:_<_8kTnK'a""Zf(=,8cY*FY,%KT:?PE_`U8&U"Yau0Tk:FE81T1C#iRfDi4@N:-?'.ArQ%a`YS9GB^q\>=;JhH70T(C6+^B:3qHm.d&:L#jieD'%(f*>NG3E"$Ei1k@sWqJj5(Ju609/s*p-_<*p+1hdH=N%makNq?7q$/U7WP5D:)8:2lkn_;jRZB=`GSD'fDioEZk,=NCUp;)s8[9mqN3sTu*mYYBWuA^a._nFLkRlb<oJK1uo)$TNMIB_$?W?`LFUp<:WG=Jnb5P#3%k`lu^^cTcUebW=6j=dttQ.(B'%(8tDZ$i5c6oN6*2OOj'eGEd4ss!$3]>7oi/2-$(j.>QpK<&P4\l^]p^Z0eX4QY(@PO.[[JpEcZ>W9K=dA`*Bbk)]'3@a#0LWegpks"#uEmg?WS1lXL[JX+#X-0UJL)phr&Xn%-mR_2dkZ7n)0o]@[N^k&B<c33RuL*Rj<Oqs;_Bm_1E5cZ04-+JAlC4\cI8lp7&qQ8`6,LSQk/=7jurL@bG>JUFK0BTb(,HmfNc\NQ@Y;aHA;-!nW]QErrYG`1f39kE"?:Pou&7)U:Q<DFdKG9!;24[8L/0[%nDjN&^F-uC6T71lNlAF#UYM?m-K`0__m[a8rQcB'I[VMLW*Q=JC$@e@1qe,>^]nb>IG-ActIP_@NC/I@%V6\k(?9B+0G5^imB.)N-eDaBnRShnc(X07=FV,DScp(5))+pL);EEG/Z[*.*@1=m#8gfEK]55*N>3rceDL/*WhUkiSoVLno.`RHKTI1fXdL&#.X4?a%'4QpKapLFohnSh4CESF\9bi'N,#EIK_%=PVGpj?B18%8$K9#GBW:[#:MpPWIHW<GA(g<-<HRs+P@k"7]$JA^hiK7@22=!kq!"em>8)2^cYhB8Zl:[U$mA,jnSBSBZ.mEibL-`V_Gl^-+5LTW`/_]4A4^JBiGbW5N1X@6';VYr*YMoE$nXdbpA]9**H6S+8>.7anOb9$MdJhQYT$GLoL:C8/#*$n(:%n#E9lQ1+[F&@Alng\aX0bU&9Icfhm*5]QJ-45tsb1f'Z$&^!.rs(bPb\@~>endstream
 endobj
 27 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3479
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gau119lo)J&r,lH.rb,mD&D.5F)`L`PhN78r2!-T_&$d>P3Ls7-fe*I\btL^"\:NpN@`3.`2`BehAJ5_)bor,:m)._aRoLYbLk/(m.m&[;R,gd-4Mp#r&8eF^>bt;]eGBa;0\iRQ_kISF]YUaY4PV5CU@]^Zs4?s1$,r(c8aBTm.,oH/E-ol:A,Fod<s'lA0%\?*%;$bc:PpddQCYlhm+Wm?/<.(m.B1"4Ze(7cI`rQ??PYsr;L&9-gW*ppI!8UDME#9$c>3]q$2*B6h9'SdKpHA9d+>p\.oPjGMno\iMpC3XO^W)<PTWm]pE;NVoZ!tP8O_)YR&fa-7.9t>L-j%]hqg)q;G3ec4l4I-t=R`\kptB=iQJ6,]hBMg_U0I(=%!cPE4&9bcPZPm#ou@`h"mXVEIn$f<Vm'<RoWhQ>J,6f]d;0mLEOWkM^_TX-(=u=RQu2Q*d])Dgku3b<Fbkg2V%nROutO\b/K<BaoEIWqa+#F*0>2Ke0_aZpI(<A!&qr'-X>Y/I"jF+rH`"ED]"U5Ae::n4jpJ>r<%oK(VJrRR:"l!lCs,E>-u5kdDWBm59@\E5u,'V6f;JG@Gfl5Ot+)QuIs*'`:JpjKq-NXIF8/:1L#RD1I+;<?GMt&7_j0`qT#0I96+-Y(fauOg>a/`@s*7D7?WLb7<'GNu>"qI>]VX7GpsE3sR+laBVm,X\DRWX7!92-iklfM"=l"3jc!FonWAtXQt$G)U;Zp)Rd7F^rN4f=/!MbFiUM2+/2skgI#G$?%s[g`@DoL%X>PC^lp_]QVI-e$uOfYeY0\er)W[_\IWka!\)Z%Asa;7AQML4?!4:S.CE<c#+FSh'U_GPB16!'9Wl0GkqTe#dMrT*GHjfLAk`T7]QT784/KHJG8p?Cb'NTCZt<<GCa"dD[&(cSl\dOq!*cd!^,EM[77>]UlJm8o=795dC:mbrc/FYda\LekV_P*4S%(_H(A"3(?ob]00[0uX=(/X\<bI$I6J<VpFHi<6X&_8!RO*@)/'l;B_jX]I'pQ]cA\Ik1>-mc4]`sD@U(ns]7Yo97VG&TbT<h"Y2Rt`"6e3^Gj'5=S]XMW%S.c[<'.=NA%iJ\1M0[$S.&GpW..&eW;G@$9.tk4D<<b1><XN*o;t<CFM_L3Hb@W>LB5)b0a:OYV>c-U<*%C1g3OO6Mp7!TR8%2g\dI4j,?mVt>+q>$ZZm]I"YVPZ,&,4)I>?;!;[`mNbemAs<QM'XRm9d))Yl*n8(9ZsQrr*AZ?s-\*0ei%OH\SucnhN-'3:u\.[*tM<C&9"*mpR<t1Ah@qe%"oIgpHCUa2JclO6jD(oir[@>8/;>U$'8nAW0m$\`\"ln.-BOV3)B&8uqG6"/9gnbMNC@ed64Fbf%$J["r.Sg<t,oo`:&J?IuH9S:jW'$&;rQR`N(rU0elQc@tD\N<qk&cD&!n/E>ad39K_WKb)]W-F0ZSB>7N;3`(Hf"0g-.FLeG\G6l:]X0uMf%TVdmR,dDmkYLs4Tjb4392oRCp16"bK)m+Bn>V:gY1r(M?Eg%GRDtA!)t'a&E3k\)%kbbBg[W>7okn?2MHpE=Lm!Cl;m-:T)GJhY@6%>2XD?7MBp\A((IbJTY$@)iB$uo2JVu;:+q<k4-u_tFF]FH,^\BK5lcds`CS7@\:pc-mJA=c,[ogt@aTpHBD>(BZ[4.ihqAf0J^2E\V#Bq3n4eT.l7^8he^,]VDIRsak2e48mCQVCF(0lNP8];TGi"f8$JX*eM1&s\%XLfH_8BX8Q1r9h6NYYBT\PdIL:Lt"k"t^3uL!DsgX*.aQeH.MGQbWse(6B[c!u]NBO<KU&KWJh/j?j,,jD0rp;ab/eU-?lS4WkF*BY;SUL9qA"8=PH(>E=Zj`?Ltti0h_Q`d!1qTZ[aSN(<'<#q77F`]IL7l!H]1PRM(nb<Ue=_@a)F.?b,WaH3;;aA=j,SK^8CeI45-<@tV)j2r']`\@ZL`YQ!b5_c/,a<E,;iXaIn;971[9Z(EaA":JK&U2<X`JuX$CDh"j16>YQ[DXh'3f<?P3<l%?,BmX%<0(5r*mZRIGL?3?E)C%jplq=ni?C,I>@>?%A,GNj#*(DR=Ys&5bW4gHd'R*W\Omh.dnf2?fWSJd6iUg!,`cOjlQ/drqr#I2_\MGoLE"\@>.?<75):Eeqce1PFpZo<GG)&g3^$s;a!m\+1hX"I;"q'&ObGu:d;Qn`SRY8TQJb(K+6#Qj$i@(.UIKFCSj+qS2VDpLni1?-bFX%',2LK=5%OKgnU[BVl'Kl$2>F8Qj.=!RlQ,K^.6IG"r9[G6='#KIs,j\j5\M44jd9RpqYP_`Ui.otMEZE$A1V]0WQ3a>SnNe3I0)Q,Dl\*a!f-'e$f^]sp/utK*T(OEF,2"lK.,0H]MR]pQ)2\>P<)_S;&ZJf`\fbEBob,S,^,WY@jUj==FseFKFFPd.3kco+q,[=M_^?c!>P@_jOt<m@XO423*4uJ:qFH:$I&C^!:&mjWXG"=iHU;3_l$Y[k\6=gJJ@hVaGeCY.="coS\pZ2og$>;LF94_Y>'s0UR>!W`Z`\[AEYjC)*,siJj6U'9UWoH^kr!5^knd/j)`"+H+F6MU(uHM0#o<e12J.OjrY=>;Q"%PkcrhWCsmPsK/=H(BoPid9`R6WR@^X0_7!LgY_f^qRn-cAB==B\P7&6dOf(pV:#V1VMYK/41H+&fX2G`VWVB$&k1HK;i3G%W_'YUmig?eULiu<6+sK[<167cAPElF)H,"<^7OU$`[4gRb9#aTK\&e0odW'Zl$VjkdNXame(]%!%_;i(_]M%`Lm,B7M2@$-]?2L=QD)4@WWmUUq*?+b2J5KM&p^G4a@FWs"0>hE\CtU6[UT<"OH%Vec5TUrWiML';j)P"$9@#Bipeb+JNh$Sa(Q\RI0_Kj1V+SeA^3OZcg0`$($9+GUc=`Y'79sJ%f=T;Sj1!CJ?n^OHh7gjXi@orQ"oBlV!/.4*T_PnZ!Qn6a`mo4%ri/Ok01SL1KQWTrna$J?f@T\-5hatD<ElmLp.YO(VZWfE>Gpeec*.\IRg2$!3ah(%E2*O8l-m&pH1LDMkk&s#ZbIAAf3JlVE:0E01SqE6<J9j*>h%"t3r?S8q'.sS;1c[`O3N!=',>4!;3A:$Q*_s_Ga>T_e+mND<!kbgRoc3qPsVCa<m<9cV)3oZ</+AJA5#Eq#$%H2)j0eeR=*)SML98]D2N#35"C$kYA^<g+%(r\*&1or<Sp2ElMVr'*7JTnpg0l=eL6%>narG(UdBAfqD>roNd*P+3upJ$=3o1mmf.,W\3lZEHr"7-B"SPT'#k]&=;@P;lS\R9?+iGE6P7$+G<P#Q=B/8ob,'krj/mEh%U7sF3@2Jr0_+3E.YgoCitK#/@L%^uE7I1JA*X'Er>_.^2_OR<?#(B>L[l"`qnMf*$X`+9(;;p#(CPFip?C's(Xit@[/B92^ok"l<db8O,4lVY_I:3omJ21LAJMYD&g_P8DuX)).*bln""NoN2#~>endstream
 endobj
 28 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3004
+/Contents 29 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 30 0 R
+/F2 10 0 R
+/F2-0 31 0 R
+/F3 14 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
 >>
-stream
-Gau10>B:Lf'$&o(;s9?K&@tNP$UokCE@M!@9e$[daKoB'W7dT`b`7lJ`J6[[\[:'s@N/&D.:W=$VUaLc\pr.#-K)(tr[i>QrG]cJ]Tc)>G':]tiJ*p%bYHGA]F[LCL2eGc0Ucuq$DCRO\S:$I+>pVtCM!stQ+)dQ^pS1%Z+aZ`hep4Rr.V$rqhg)<^>Nn6%]WbRnU_#/UgZQ'5$9l"Yt&GTh-<Blnt5*+:YqZtp5-&`I<Vsqr9EAOp*/quj1p+W`a.-7nJcZFOe$n^q/0a%6ic,((Ud`,$4sL)i0p%M<QFN0Xgq9NK0+gC+H+@45cnhfJkHtYK`MkB9C8"8;R>nR>7I!/c3Wi;;6\lrC;gR[:"C60*#HU.c0E)]J:X9=>WSpai]'&p=Lg^,EmB;k$#6D>n0/^ed(4FY>?Q3*5+kec?VtSs*p,^YA$^p]K@Ymbp].a'%=N)l[R>f"1$[eHQ(+f`>sRd(B_Xt%45$$&8BRpm-I!uS.1_jPj':0N2"r>I@(CIQG7V%Bm$,k"o%%h`cuQFu9(5g,NhPEr!Z*E*d9!$c:9IL$#nj\$[.uRdE:&?%QAMmU&#iekoWk1E*!t?==HBeqAFe%=.V6GM[1J0lgj-(G[op$=[LQh79#\IlCn>VqQJFjX5iLZZUNG&o!O%2+EJpZpXQ.-DW+dr#@$ka:b)-qF+QKRr\]J1:;s=$lkr?Cto9o1Ap[pcY`MH*-CN)o@\K7,neV!b$/'k=LLjR6)<49BOl3=]!fZA(L[iMO%Mf*_[%i(!CHbPQ-+10E9HduGEr@XCYf>cq\.\L@7Z,nH2mrV3*mTcG5[sn.GS_fB$2`tY!Y>9UUhm(X3VsiSoDr86Rs8!K.n7(_hnGB+I*le''%Fh3Sr<26g)N,%*dSqVs^BJuY'6q_"KXMLU&)KR8n^==]@G$TCn3e-=Zdu?ZR(bdD>WDN=)&JBW$)'t\nkY-jYlko("3a+=!AAa\"o(,b=-jLSlf[V@Ncj,H[]^fa[_q;hqlq&_ol-i_lB49$VPtU$[U[4bYPPir3JmcWUI.mL-$;uO]+2i4))&Vq]'>(GP]c>RZ!u<jq*A4BYT]UiEQ<h%*-uE[:I/e-e[/)S\rYCJqhF^*#:ZRuIN;o]Y]=#`qq+t][:B)O(go1I?.HhK2Eu:)qnB*-33_[$Lq;;'HY>>pcpXN;_8rM3;X:;$6=2T(B3BkE$d5X@NbCE@%Oq_U$qh>WMn/%`brGb<kpK]6q,CFgpRu^Gjr^l>X&9R;=02K4#)?3J2$9[[8`d7#U+AKY/_!g.)lbJ%Aa=-]a8*=&%I_7b"0J<%0Hn^oPn.L(a\-^8Pt13uK=<Eq@e*,!3k<^?9b?NQLUIXD$>*As66.S($HQ)o6&hNIC'Z@kJ@!rAposgb!fB$-*N,dc7S1WL`tNT-N)GaC(cd3Y.Kjii,G9Zm`g+M&&S;7Rk+J=LF"eN>N=d8ql42%CW@2P[.-@0l0F,!#==c9sQlf*,=Qc[9B$PrN\:TqWc>g'-XIXl_"XqHBZ-I"/6%tC1C'8ZUbJ^\i-d(EM@3,!IU"U+h>/uG[F1&m1>q6\!^qi\^(llInK*J*`ZPdr;Bh.m<lMprsQ&oG$9NK`\#jF;liAE$MBF#,H3#X9"FRi?jPf;'jE*l7!:2''D1&"*5Y]B5PdR!USUkjB]H'/&+Dr\T_0=F\b652rb6H<XZdW+a&D4qEUJ*0O-IP&'3=I4a8PZq2QT>_QR]r$=[2$N]^YH#%DWo4eBkPu]nl;1h8A?=O&I9gd3fH`AK0lqN-2XWj9fYC;sm@;;(gVJ4u@"q$0V9e1.GKnb]J:o20%qk>9!$X[_hn&h75`';;dDL;O3&^+(-kMs;j!:`'C%USDWl6ohZ?Cu+fq6p'6Q\NnLG[V2*Ja+8cc6&MC[1V6N0h=?45dG4=8'bn"&KteB\1-;D5BrW_G[0qN?A[FGtB9Goib3=n0q1c1t]kfWhh0o9L]r%o]X.9&>3/P_DA6G:kG!iZA_Ru#5rA:[R?==Y7Vl>lH=/oUps=_KSY8$iJVYE?/=/RbB2#g=l_n""+k]J;G?qP!)35(Q_I4k,hd"5/;GOg/hdL]e,H86jtNVqdgNNbW!``7<e7Ku.M6c*,pX&/9U'+9_Ck%b6a\3Y1nK<4OdA.c-+t>kc&3Ih#dL&2Y!;:^pH%gR$IB>_LWm[<]jg)CPR>O?R^d@BS0D#akY*P+&7Rqb&.<6o*G@Sd!KRPcTr/@MQ>k237XU`,Q!"$7=^k#_0G2dWKNHUI&15KB.lc.:&7kJH1f-OV5tb?`a!8Z7i!?+d'f*)Qp<M^#$:1!U'RIJs3f`ZEOTdE>3kh,f:Y\;qrPO0iSP-Cee)<9W\Z>2PoBY&YjSYY<B\Gi0NmM1Ce\?Vj=EAE@biottRsj,DbH9-/ht;cG^:W3L^Q*&f(%Y:h?k$lN/Ct`kcdPXX)Z?f9/n>V/bj>50XG-a@j3;[;')-h)DQ=cXgdf/ADKrU;YT((-GRn,roVAcQkI$:c\l27@"D#I)DFdi40HacBHm].m'q_>E^9.uH\iNCnf7*g/Co_tCF4bn.$Ho?i3Y-MS8c37E6-sW/!3/_3QgUXr5K@A%Y$6hBT(+\f34[lL/aJ*TXBFP;eo&$A,m8l>+X#9RotV^g:)N4B!#6#%<sM5%8-d=T>"]=TT_eEp1'-VnIIgu*!hhpt#W2ZLW8YHWlU4m'+;BLC&dlL3ZLp*?j*Z:RV2k8#)eIS"Ff?T3j:-:48i&"9:\T"/=MNQ'q2hSRY:T_]kO8'Bf]ZnoUo2e91MUl?Tr^P)]?QP+YV^jucFJR*khnI<i(oH^<PhjFJlNto=I/<oDY*0k-@GAKi-1<j(<WK#X8)`PDkNFs4e6tDCe92g@H,Z>=?Dn?)kY?d(X<HP&U*!=l`8uaQ*/o?Mq)%pP#TEU>cI\bar!/eVlpGZs4g\DTC@c_:\T6rq)QXi$IZ9B_drT5`HW6smW%nSo(+h?`pgLqhtHuNj^j_>^jQ-Yhr0EfbD'm5#H4]+Wr~>endstream
+/XObject <<
+/FormXob.6dad61813444481a6e0457c85000eacc 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
 endobj
 29 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 906
+/Length 7580
 >>
 stream
-Gat%!9i'M/&A@7.N&X[&-9M+<]`BEWX%K4O%m=l7P(a)dg#1LGn`)]S*6<n.+dNaf]fYiBRl:u^_&'N:P6Ja5!M_@M8LX"X1hnGQ_f[\!,%n:cPgX85JBCHY"-a=KAUE&4K@1VF?5%W,4Hp0?cNY4Sn3R4liOi3AUk=c`F.O'aXjlZVktu/qD0MMDnAW"D?kRj>/"l9;nLAYi.!QGp4F!j0NDM1aZm]SYh\!$+>n!oT$@lc>Rkil>n%Xmdi$p?[oboIGocbttr<\?O.*e:F:BP&]:._k8Z$h_^U3#B\)1bK)Z#kWG31#P1q$udK:+\1Vbo]a/-D?EgGU%l4EAE(uH1:D7>rniQ-.q0+=XD7E_)1VoQS$gI8Qr;2A;I9$9_)XM:K@D,_rjii;Jcci-`85H.Td3RG-%/I<@d8%^96`V&(>%,]=:U>,H'<ge@@!7i<B(LC0?,-EE"5F]/8KMo!1lsCoqE#+`Io%AZY0"Pp&G0.,HF`rhMQUd[[eCGs.37jLRKO=)j[%gqiQi!KBMeA>!!+.WuW[9)leZ,[+*O7kl1743%PIr2[f6-mq5e;(n?`nlBIiJ\`#:Ftp*L?7&c%I_q:Y#sF_P`86FRM)BA^SIdE\$#a:tZAcs`/(6Ls@2uE8dkj8LLKT:EKT!FabIj4]?(HXW,I'uhak4D"^<u8V_kfcUg:pE,!nRGGIC:G=H%'^+AgLDQXp$p_9l7Fcd%VD;oj3I'>H)c>Aj?&>XC<'@.cXfF=*!-GHH:upe&XFN,L\his6#a2J,W70^OP)\puQ4_#eBgkS@A6QS%r4UTMZU7/FUV,`h=('d$a91%""6%<+Bh=;4Zg(F?XlMh72&/G5`6s3>ClMm$Z>k02u<>4aVTfAA.[9@Yhp*lh5=^(m3GW","A<HcP7~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.909804 .407843 .14902 rg
+n 0 813.5433 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 70.86614 823.4646 Tm (Trilha EJA-EPT  |  ProfEPT  |  IFC Campus Blumenau) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 533.0227 824.8819 Tm (4) Tj T* ET
+.909804 .407843 .14902 rg
+n 70.86614 759.685 11.33858 19.84252 re f*
+.117647 .227451 .372549 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 87.87402 768.189 Tm /F4 12 Tf 14.4 TL (nn) Tj /F2 12 Tf 14.4 TL (  Mundo do Trabalho x Mercado de Trabalho) Tj T* ET
+.898039 .905882 .921569 RG
+.5 w
+n 70.86614 756.8504 m 538.5827 756.8504 l S
+1 w
+q
+1 0 0 1 70.86614 717.6732 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.5 Tm /F2 11 Tf 16.5 TL (Uma distin\347\343o que \351 pol\355tica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 667.6654 cm
+q
+BT 1 0 0 1 0 22 Tm 1.22581 Tw 16.5 TL /F1 11 Tf 0 0 0 rg (Este aplicativo usa intencionalmente a express\343o ) Tj /F2 11 Tf (Mundo do Trabalho) Tj /F1 11 Tf ( \227 e n\343o ) Tj /F5 11 Tf (mercado de) Tj T* 0 Tw (trabalho) Tj /F1 11 Tf (. Essa escolha n\343o \351 acidental.) Tj T* ET
+Q
+Q
+.862745 .14902 .14902 rg
+n 70.86614 627.9803 229.6063 22.67717 re f*
+.086275 .396078 .203922 rg
+n 308.9764 627.9803 229.6063 22.67717 re f*
+.898039 .905882 .921569 RG
+.4 w
+n 70.86614 627.9803 229.6063 22.67717 re S
+n 308.9764 627.9803 229.6063 22.67717 re S
+1 w
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+q
+1 0 0 1 76.53543 633.6496 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Mercado de Trabalho) Tj T* ET
+Q
+Q
+q
+1 0 0 1 314.6457 633.6496 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Mundo do Trabalho) Tj T* ET
+Q
+Q
+.996078 .886275 .886275 rg
+n 70.86614 588.2953 229.6063 39.68504 re f*
+.862745 .988235 .905882 rg
+n 308.9764 588.2953 229.6063 39.68504 re f*
+.898039 .905882 .921569 RG
+.4 w
+n 70.86614 588.2953 229.6063 39.68504 re S
+n 308.9764 588.2953 229.6063 39.68504 re S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 8 Tf 9.6 TL ET
+q
+1 0 0 1 76.53543 593.9646 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Adapta o estudante \340s necessidades do capital) Tj T* ET
+Q
+Q
+q
+1 0 0 1 314.6457 593.9646 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (Instrumentaliza o cidad\343o a compreender e transformar as) Tj T* (rela\347\365es de produ\347\343o) Tj T* ET
+Q
+Q
+1 1 1 rg
+n 70.86614 554.2795 229.6063 34.01575 re f*
+.952941 .956863 .964706 rg
+n 308.9764 554.2795 229.6063 34.01575 re f*
+.898039 .905882 .921569 RG
+.4 w
+n 70.86614 554.2795 229.6063 34.01575 re S
+n 308.9764 554.2795 229.6063 34.01575 re S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 8 Tf 9.6 TL ET
+q
+1 0 0 1 76.53543 559.9488 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Naturaliza a explora\347\343o e a precariza\347\343o) Tj T* ET
+Q
+Q
+q
+1 0 0 1 314.6457 559.9488 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (Questiona as condi\347\365es de trabalho e os direitos dos) Tj T* (trabalhadores) Tj T* ET
+Q
+Q
+.996078 .886275 .886275 rg
+n 70.86614 525.9331 229.6063 28.34646 re f*
+.862745 .988235 .905882 rg
+n 308.9764 525.9331 229.6063 28.34646 re f*
+.898039 .905882 .921569 RG
+.4 w
+n 70.86614 525.9331 229.6063 28.34646 re S
+n 308.9764 525.9331 229.6063 28.34646 re S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 8 Tf 9.6 TL ET
+q
+1 0 0 1 76.53543 531.6024 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Foco: empregabilidade individual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 314.6457 531.6024 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Foco: forma\347\343o humana integral e cidadania) Tj T* ET
+Q
+Q
+1 1 1 rg
+n 70.86614 486.248 229.6063 39.68504 re f*
+.952941 .956863 .964706 rg
+n 308.9764 486.248 229.6063 39.68504 re f*
+.898039 .905882 .921569 RG
+.4 w
+n 70.86614 486.248 229.6063 39.68504 re S
+n 308.9764 486.248 229.6063 39.68504 re S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 8 Tf 9.6 TL ET
+q
+1 0 0 1 76.53543 491.9173 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 3 Tm /F1 8 Tf 11 TL (Pergunta: onde vou trabalhar?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 314.6457 491.9173 cm
+q
+.066667 .094118 .152941 rg
+BT 1 0 0 1 0 14 Tm /F1 8 Tf 11 TL (Pergunta: em que condi\347\365es? com quais direitos? para qual) Tj T* (projeto de vida?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 419.7402 cm
+q
+BT 1 0 0 1 0 38.5 Tm 2.148378 Tw 16.5 TL /F1 11 Tf 0 0 0 rg (Use essa distin\347\343o nas suas aulas. Quando um estudante pergunta "onde vou trabalhar?",) Tj T* 0 Tw 2.333426 Tw (amplie a pergunta: ) Tj /F5 11 Tf ("em que condi\347\365es? com quais direitos? para construir qual projeto de) Tj T* 0 Tw (vida?") Tj T* ET
+Q
+Q
+.862745 .988235 .905882 rg
+n
+76.53543 306.3543 m
+532.9134 306.3543 l
+536.0474 306.3543 538.5827 308.8896 538.5827 312.0236 c
+538.5827 391.3937 l
+538.5827 394.5277 536.0474 397.063 532.9134 397.063 c
+76.53543 397.063 l
+73.40145 397.063 70.86614 394.5277 70.86614 391.3937 c
+70.86614 312.0236 l
+70.86614 308.8896 73.40145 306.3543 76.53543 306.3543 c
+h
+f*
+.086275 .396078 .203922 RG
+1.2 w
+n
+76.53543 306.3543 m
+532.9134 306.3543 l
+536.0474 306.3543 538.5827 308.8896 538.5827 312.0236 c
+538.5827 391.3937 l
+538.5827 394.5277 536.0474 397.063 532.9134 397.063 c
+76.53543 397.063 l
+73.40145 397.063 70.86614 394.5277 70.86614 391.3937 c
+70.86614 312.0236 l
+70.86614 308.8896 73.40145 306.3543 76.53543 306.3543 c
+h
+S
+1 w
+.086275 .396078 .203922 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 82.20472 380.0551 Tm (Como usar essa distin\347\343o em sala) Tj T* ET
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 82.20472 365.8819 Tm /F6 9 Tf 10.8 TL (\256) Tj /F1 9 Tf 10.8 TL (  Ao apresentar vagas de emprego, discuta: quais s\343o os direitos garantidos?) Tj T* ET
+BT 1 0 0 1 82.20472 351.7087 Tm /F6 9 Tf 10.8 TL (\256) Tj /F1 9 Tf 10.8 TL (  Ao falar de curr\355culo, pergunte: que habilidades o mercado valoriza? e a vida?) Tj T* ET
+BT 1 0 0 1 82.20472 337.5354 Tm /F6 9 Tf 10.8 TL (\256) Tj /F1 9 Tf 10.8 TL (  Ao tratar de forma\347\343o, questione: formar para qu\352? Para quem?) Tj T* ET
+BT 1 0 0 1 82.20472 323.3622 Tm /F6 9 Tf 10.8 TL (\256) Tj /F1 9 Tf 10.8 TL (  Conecte o conte\372do t\351cnico do eletricista ao contexto das rela\347\365es de trabalho.) Tj T* ET
+.952941 .956863 .964706 rg
+n
+75.11811 246.3386 m
+534.3307 246.3386 l
+536.6812 246.3386 538.5827 248.2401 538.5827 250.5906 c
+538.5827 285.0945 l
+538.5827 287.445 536.6812 289.3465 534.3307 289.3465 c
+75.11811 289.3465 l
+72.76762 289.3465 70.86614 287.445 70.86614 285.0945 c
+70.86614 250.5906 l
+70.86614 248.2401 72.76762 246.3386 75.11811 246.3386 c
+h
+f*
+q
+1 0 0 1 82.20472 254.8425 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 17 Tm /F5 9 Tf 13 TL /F4 9 Tf 13 TL (n) Tj /F5 9 Tf 13 TL ( Refer\352ncia: FRIGOTTO, G.; CIAVATTA, M.; RAMOS, M. \(Orgs.\). Ensino M\351dio Integrado. S\343o Paulo:) Tj T* (Cortez, 2005.) Tj T* ET
+Q
+Q
+.117647 .227451 .372549 rg
+n 0 0 595.2756 39.68504 re f*
+q
+31.1811 0 0 31.1811 70.86614 4.251969 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 110.5512 26.92913 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F2 7 Tf 8.4 TL ( para trabalhadores-estudantes.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 110.5512 17.00787 Tm (Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+BT 1 0 0 1 110.5512 8.503937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 523.0147 17.00787 Tm (4/10) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+498 11.8898 47 20 re
+f*
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 527.48 20.3898 Tm
+(4\0579) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/Contents 33 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 34 0 R
+/F2 10 0 R
+/F2-0 35 0 R
+/F3 14 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+>>
+/XObject <<
+/FormXob.6dad61813444481a6e0457c85000eacc 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length 6983
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.909804 .407843 .14902 rg
+n 0 813.5433 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 70.86614 823.4646 Tm (Trilha EJA-EPT  |  ProfEPT  |  IFC Campus Blumenau) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 533.0227 824.8819 Tm (5) Tj T* ET
+.909804 .407843 .14902 rg
+n 70.86614 759.685 11.33858 19.84252 re f*
+.117647 .227451 .372549 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 87.87402 768.189 Tm /F4 12 Tf 14.4 TL (nn) Tj /F2 12 Tf 14.4 TL (  Como mediar o Mapa da Vida sem cair na meritocracia) Tj T* ET
+.898039 .905882 .921569 RG
+.5 w
+n 70.86614 756.8504 m 538.5827 756.8504 l S
+1 w
+q
+1 0 0 1 70.86614 717.6732 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.5 Tm /F2 11 Tf 16.5 TL (O projeto de vida como ato pol\355tico coletivo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 667.6654 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 11 Tf 16.5 TL 1.882158 Tw (A BNCC introduziu o "Projeto de Vida" no curr\355culo \227 mas na EJA-EPT, ele n\343o pode ser) Tj T* 0 Tw (reduzido a um plano individualista de ascens\343o pessoal.) Tj T* ET
+Q
+Q
+.862745 .988235 .905882 rg
+n
+76.53543 472.0748 m
+294.8031 472.0748 l
+297.9371 472.0748 300.4724 474.6101 300.4724 477.7441 c
+300.4724 636.4843 l
+300.4724 639.6182 297.9371 642.1535 294.8031 642.1535 c
+76.53543 642.1535 l
+73.40145 642.1535 70.86614 639.6182 70.86614 636.4843 c
+70.86614 477.7441 l
+70.86614 474.6101 73.40145 472.0748 76.53543 472.0748 c
+h
+f*
+.086275 .396078 .203922 RG
+1 w
+n
+76.53543 472.0748 m
+294.8031 472.0748 l
+297.9371 472.0748 300.4724 474.6101 300.4724 477.7441 c
+300.4724 636.4843 l
+300.4724 639.6182 297.9371 642.1535 294.8031 642.1535 c
+76.53543 642.1535 l
+73.40145 642.1535 70.86614 639.6182 70.86614 636.4843 c
+70.86614 477.7441 l
+70.86614 474.6101 73.40145 472.0748 76.53543 472.0748 c
+h
+S
+.996078 .886275 .886275 rg
+n
+314.6457 472.0748 m
+532.9134 472.0748 l
+536.0474 472.0748 538.5827 474.6101 538.5827 477.7441 c
+538.5827 636.4843 l
+538.5827 639.6182 536.0474 642.1535 532.9134 642.1535 c
+314.6457 642.1535 l
+311.5117 642.1535 308.9764 639.6182 308.9764 636.4843 c
+308.9764 477.7441 l
+308.9764 474.6101 311.5117 472.0748 314.6457 472.0748 c
+h
+f*
+.862745 .14902 .14902 RG
+n
+314.6457 472.0748 m
+532.9134 472.0748 l
+536.0474 472.0748 538.5827 474.6101 538.5827 477.7441 c
+538.5827 636.4843 l
+538.5827 639.6182 536.0474 642.1535 532.9134 642.1535 c
+314.6457 642.1535 l
+311.5117 642.1535 308.9764 639.6182 308.9764 636.4843 c
+308.9764 477.7441 l
+308.9764 474.6101 311.5117 472.0748 314.6457 472.0748 c
+h
+S
+1 w
+.086275 .396078 .203922 rg
+BT /F2 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 82.20472 622.311 Tm /F4 9.5 Tf 11.4 TL (3) Tj /F2 9.5 Tf 11.4 TL (  FA\307A) Tj T* ET
+.862745 .14902 .14902 rg
+BT 1 0 0 1 317.4803 622.311 Tm /F4 9.5 Tf 11.4 TL (7) Tj /F2 9.5 Tf 11.4 TL (  EVITE) Tj T* ET
+q
+1 0 0 1 82.20472 566.4685 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.5 Tm /F1 8.5 Tf 12 TL 3.625376 Tw (\177 Pergunte quais barreiras estruturais \227 falta de) Tj T* 0 Tw 2.441772 Tw (transporte, cansa\347o, cuidado de filhos \227 dificultam) Tj T* 0 Tw (seus projetos. Debata solu\347\365es coletivas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.20472 533.9646 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL 2.344305 Tw (\177 Conecte as metas individuais a direitos coletivos:) Tj T* 0 Tw (moradia, educa\347\343o, sa\372de, trabalho digno.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.20472 501.4606 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL 2.109704 Tw (\177 Valorize trajet\363rias n\343o lineares \227 quem parou e) Tj T* 0 Tw (voltou tem uma hist\363ria que merece ser reconhecida.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.20472 468.9567 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL 1.475793 Tw (\177 Use os blocos "De onde venho?" e "Onde estou?") Tj T* 0 Tw (como ponto de partida para rodas de conversa.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.4803 578.4685 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL 1.478626 Tw (\177 Frases como "basta querer", "\351 s\363 se esfor\347ar" ou) Tj T* 0 Tw ("depende s\363 de voc\352".) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.4803 533.9646 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.5 Tm /F1 8.5 Tf 12 TL .984517 Tw (\177 Culpar o estudante pelo cansa\347o \227 o esgotamento) Tj T* 0 Tw 3.306079 Tw (f\355sico \351 reflexo da jornada de trabalho da classe) Tj T* 0 Tw (trabalhadora.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.4803 501.4606 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL 2.714904 Tw (\177 Tratar o projeto de vida como plano de carreira) Tj T* 0 Tw (individual.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.4803 480.9567 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (\177 Comparar trajet\363rias entre estudantes.) Tj T* ET
+Q
+Q
+.996078 .941176 .909804 rg
+n
+76.53543 406.878 m
+532.9134 406.878 l
+536.0474 406.878 538.5827 409.4133 538.5827 412.5472 c
+538.5827 452.2323 l
+538.5827 455.3663 536.0474 457.9016 532.9134 457.9016 c
+76.53543 457.9016 l
+73.40145 457.9016 70.86614 455.3663 70.86614 452.2323 c
+70.86614 412.5472 l
+70.86614 409.4133 73.40145 406.878 76.53543 406.878 c
+h
+f*
+.909804 .407843 .14902 RG
+1.5 w
+n
+76.53543 406.878 m
+532.9134 406.878 l
+536.0474 406.878 538.5827 409.4133 538.5827 412.5472 c
+538.5827 452.2323 l
+538.5827 455.3663 536.0474 457.9016 532.9134 457.9016 c
+76.53543 457.9016 l
+73.40145 457.9016 70.86614 455.3663 70.86614 452.2323 c
+70.86614 412.5472 l
+70.86614 409.4133 73.40145 406.878 76.53543 406.878 c
+h
+S
+1 w
+q
+1 0 0 1 82.20472 415.3819 cm
+q
+BT 1 0 0 1 0 18 Tm 88.43469 0 Td 14 TL /F3 10 Tf .909804 .407843 .14902 rg ("O Mapa da Vida \351 um ato pol\355tico de esperan\347a coletiva) Tj  T* 35.295 0 Td (\227 n\343o um plano de ascens\343o individual.") Tj T* -123.7297 0 Td ET
+Q
+Q
+.952941 .956863 .964706 rg
+n
+75.11811 371.2008 m
+534.3307 371.2008 l
+536.6812 371.2008 538.5827 373.1023 538.5827 375.4528 c
+538.5827 396.9567 l
+538.5827 399.3072 536.6812 401.2087 534.3307 401.2087 c
+75.11811 401.2087 l
+72.76762 401.2087 70.86614 399.3072 70.86614 396.9567 c
+70.86614 375.4528 l
+70.86614 373.1023 72.76762 371.2008 75.11811 371.2008 c
+h
+f*
+q
+1 0 0 1 82.20472 379.7047 cm
+q
+.419608 .447059 .501961 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL /F4 9 Tf 13 TL (n) Tj /F5 9 Tf 13 TL ( Refer\352ncia: FREIRE, P. Pedagogia da Esperan\347a. Rio de Janeiro: Paz e Terra, 1992.) Tj T* ET
+Q
+Q
+.117647 .227451 .372549 rg
+n 0 0 595.2756 39.68504 re f*
+q
+31.1811 0 0 31.1811 70.86614 4.251969 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 110.5512 26.92913 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F2 7 Tf 8.4 TL ( para trabalhadores-estudantes.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 110.5512 17.00787 Tm (Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+BT 1 0 0 1 110.5512 8.503937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 523.0147 17.00787 Tm (5/10) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+498 11.8898 47 20 re
+f*
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 527.48 20.3898 Tm
+(5\0579) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 38 0 R
+/F2 10 0 R
+/F2-0 39 0 R
+/F3 14 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+>>
+/XObject <<
+/FormXob.6dad61813444481a6e0457c85000eacc 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 8898
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.909804 .407843 .14902 rg
+n 0 813.5433 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 70.86614 823.4646 Tm (Trilha EJA-EPT  |  ProfEPT  |  IFC Campus Blumenau) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 533.0227 824.8819 Tm (6) Tj T* ET
+.909804 .407843 .14902 rg
+n 70.86614 759.685 11.33858 19.84252 re f*
+.117647 .227451 .372549 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 87.87402 768.189 Tm /F4 12 Tf 14.4 TL (n) Tj /F2 12 Tf 14.4 TL (  O educador como ponte contra o apag\343o informacional) Tj T* ET
+.898039 .905882 .921569 RG
+.5 w
+n 70.86614 756.8504 m 538.5827 756.8504 l S
+1 w
+q
+1 0 0 1 70.86614 717.6732 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.5 Tm /F2 11 Tf 16.5 TL (Media\347\343o tecnol\363gica como ato pedag\363gico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 651.1654 cm
+q
+BT 1 0 0 1 0 38.5 Tm 2.691354 Tw 16.5 TL /F1 11 Tf 0 0 0 rg (As entrevistas realizadas nesta pesquisa revelaram algo importante: muitos estudantes da) Tj T* 0 Tw -0.061946 Tw (EJA-EPT desconhecem informa\347\365es fundamentais sobre continuidade dos estudos e mundo do) Tj T* 0 Tw (trabalho \227 o que chamamos de ) Tj /F2 11 Tf (apag\343o informacional) Tj /F1 11 Tf (.) Tj T* ET
+Q
+Q
+.996078 .886275 .886275 rg
+n
+75.11811 574.6299 m
+177.1654 574.6299 l
+179.5158 574.6299 181.4173 576.5314 181.4173 578.8819 c
+181.4173 627.0709 l
+181.4173 629.4214 179.5158 631.3228 177.1654 631.3228 c
+75.11811 631.3228 l
+72.76762 631.3228 70.86614 629.4214 70.86614 627.0709 c
+70.86614 578.8819 l
+70.86614 576.5314 72.76762 574.6299 75.11811 574.6299 c
+h
+f*
+.862745 .14902 .14902 rg
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 123.4777 605.811 Tm (!) Tj T* ET
+.066667 .094118 .152941 rg
+q
+1 0 0 1 76.53543 577.4646 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Muitos n\343o sabem o que \351) Tj T* (ENEM, SISU ou PROUNI.) Tj T* ET
+Q
+Q
+.996078 .941176 .909804 rg
+n
+194.1732 574.6299 m
+296.2205 574.6299 l
+298.571 574.6299 300.4724 576.5314 300.4724 578.8819 c
+300.4724 627.0709 l
+300.4724 629.4214 298.571 631.3228 296.2205 631.3228 c
+194.1732 631.3228 l
+191.8227 631.3228 189.9213 629.4214 189.9213 627.0709 c
+189.9213 578.8819 l
+189.9213 576.5314 191.8227 574.6299 194.1732 574.6299 c
+h
+f*
+.909804 .407843 .14902 rg
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 242.5329 605.811 Tm (!) Tj T* ET
+.066667 .094118 .152941 rg
+q
+1 0 0 1 195.5906 577.4646 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Nunca formataram um) Tj T* (curr\355culo.) Tj T* ET
+Q
+Q
+.996078 .976471 .764706 rg
+n
+313.2283 574.6299 m
+415.2756 574.6299 l
+417.6261 574.6299 419.5276 576.5314 419.5276 578.8819 c
+419.5276 627.0709 l
+419.5276 629.4214 417.6261 631.3228 415.2756 631.3228 c
+313.2283 631.3228 l
+310.8779 631.3228 308.9764 629.4214 308.9764 627.0709 c
+308.9764 578.8819 l
+308.9764 576.5314 310.8779 574.6299 313.2283 574.6299 c
+h
+f*
+.792157 .541176 .015686 rg
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 361.588 605.811 Tm (!) Tj T* ET
+.066667 .094118 .152941 rg
+q
+1 0 0 1 314.6457 577.4646 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (Desconhecem seus direitos) Tj T* (trabalhistas b\341sicos.) Tj T* ET
+Q
+Q
+.996078 .886275 .886275 rg
+n
+432.2835 574.6299 m
+534.3307 574.6299 l
+536.6812 574.6299 538.5827 576.5314 538.5827 578.8819 c
+538.5827 627.0709 l
+538.5827 629.4214 536.6812 631.3228 534.3307 631.3228 c
+432.2835 631.3228 l
+429.933 631.3228 428.0315 629.4214 428.0315 627.0709 c
+428.0315 578.8819 l
+428.0315 576.5314 429.933 574.6299 432.2835 574.6299 c
+h
+f*
+.862745 .14902 .14902 rg
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 480.6431 605.811 Tm (!) Tj T* ET
+.066667 .094118 .152941 rg
+q
+1 0 0 1 433.7008 577.4646 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.5 Tm /F1 7.5 Tf 10 TL (N\343o sabem que podem fazer) Tj T* (uma gradua\347\343o gratuita.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 513.7913 cm
+q
+BT 1 0 0 1 0 38.5 Tm 2.751545 Tw 16.5 TL /F1 11 Tf 0 0 0 rg (O educador tem um papel ) Tj /F2 11 Tf (insubstitu\355vel) Tj /F1 11 Tf ( nesse processo. A media\347\343o tecnol\363gica n\343o \351) Tj T* 0 Tw .855569 Tw (apenas ensinar a usar um app \227 \351 ampliar horizontes e devolver ao estudante a consci\352ncia) Tj T* 0 Tw (de suas possibilidades.) Tj T* ET
+Q
+Q
+.858824 .917647 .996078 rg
+n
+75.11811 436.5945 m
+534.3307 436.5945 l
+536.6812 436.5945 538.5827 438.496 538.5827 440.8465 c
+538.5827 484.0276 l
+538.5827 486.378 536.6812 488.2795 534.3307 488.2795 c
+75.11811 488.2795 l
+72.76762 488.2795 70.86614 486.378 70.86614 484.0276 c
+70.86614 440.8465 l
+70.86614 438.496 72.76762 436.5945 75.11811 436.5945 c
+h
+f*
+.117647 .227451 .372549 rg
+n 70.86614 436.5945 8.503937 51.68504 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 471.2717 Tm /F4 9 Tf 10.8 TL (n) Tj /F2 9 Tf 10.8 TL (  Mediar o acesso) Tj T* ET
+q
+1 0 0 1 87.87402 453.6024 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Apresente os m\363dulos do app em sala, navegue junto com a turma, esclare\347a d\372vidas sobre o conte\372do.) Tj T* ET
+Q
+Q
+.862745 .988235 .905882 rg
+n
+75.11811 379.2402 m
+534.3307 379.2402 l
+536.6812 379.2402 538.5827 381.1416 538.5827 383.4921 c
+538.5827 426.6732 l
+538.5827 429.0237 536.6812 430.9252 534.3307 430.9252 c
+75.11811 430.9252 l
+72.76762 430.9252 70.86614 429.0237 70.86614 426.6732 c
+70.86614 383.4921 l
+70.86614 381.1416 72.76762 379.2402 75.11811 379.2402 c
+h
+f*
+.086275 .396078 .203922 rg
+n 70.86614 379.2402 8.503937 51.68504 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 413.9173 Tm /F4 9 Tf 10.8 TL (n) Tj /F2 9 Tf 10.8 TL (  Desmistificar o ensino superior) Tj T* ET
+q
+1 0 0 1 87.87402 396.248 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Mostre que a gradua\347\343o gratuita \351 real e acess\355vel. Muitos estudantes nunca consideraram essa possibilidade.) Tj T* ET
+Q
+Q
+.996078 .941176 .909804 rg
+n
+75.11811 321.8858 m
+534.3307 321.8858 l
+536.6812 321.8858 538.5827 323.7873 538.5827 326.1378 c
+538.5827 369.3189 l
+538.5827 371.6694 536.6812 373.5709 534.3307 373.5709 c
+75.11811 373.5709 l
+72.76762 373.5709 70.86614 371.6694 70.86614 369.3189 c
+70.86614 326.1378 l
+70.86614 323.7873 72.76762 321.8858 75.11811 321.8858 c
+h
+f*
+.909804 .407843 .14902 rg
+n 70.86614 321.8858 8.503937 51.68504 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 356.563 Tm /F4 9 Tf 10.8 TL (n) Tj /F2 9 Tf 10.8 TL (  Conectar t\351cnico e direitos) Tj T* ET
+q
+1 0 0 1 87.87402 338.8937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Articule o conte\372do do curso de eletricista com os direitos trabalhistas: NR-10, periculosidade, seguran\347a.) Tj T* ET
+Q
+Q
+.929412 .913725 .996078 rg
+n
+75.11811 264.5315 m
+534.3307 264.5315 l
+536.6812 264.5315 538.5827 266.433 538.5827 268.7835 c
+538.5827 311.9646 l
+538.5827 314.3151 536.6812 316.2165 534.3307 316.2165 c
+75.11811 316.2165 l
+72.76762 316.2165 70.86614 314.3151 70.86614 311.9646 c
+70.86614 268.7835 l
+70.86614 266.433 72.76762 264.5315 75.11811 264.5315 c
+h
+f*
+.356863 .129412 .713725 rg
+n 70.86614 264.5315 8.503937 51.68504 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 299.2087 Tm /F4 9 Tf 10.8 TL (n) Tj /F2 9 Tf 10.8 TL (  Usar o app para rodas de conversa) Tj T* ET
+q
+1 0 0 1 87.87402 281.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Use os m\363dulos como ponto de partida \227 n\343o de chegada \227 para discuss\365es coletivas sobre projetos de vida.) Tj T* ET
+Q
+Q
+.952941 .956863 .964706 rg
+n
+75.11811 195.1772 m
+534.3307 195.1772 l
+536.6812 195.1772 538.5827 197.0786 538.5827 199.4291 c
+538.5827 254.6102 l
+538.5827 256.9607 536.6812 258.8622 534.3307 258.8622 c
+75.11811 258.8622 l
+72.76762 258.8622 70.86614 256.9607 70.86614 254.6102 c
+70.86614 199.4291 l
+70.86614 197.0786 72.76762 195.1772 75.11811 195.1772 c
+h
+f*
+.419608 .447059 .501961 rg
+n 70.86614 195.1772 8.503937 63.68504 re f*
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 241.8543 Tm /F4 9 Tf 10.8 TL (nn) Tj /F2 9 Tf 10.8 TL (  Mostrar caminhos sem impor) Tj T* ET
+q
+1 0 0 1 87.87402 212.185 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL .283672 Tw (Apresente as possibilidades sem hierarquiz\341-las. Cada estudante tem sua trajet\363ria \227 o educador abre portas, n\343o) Tj T* 0 Tw (escolhe destinos.) Tj T* ET
+Q
+Q
+.117647 .227451 .372549 rg
+n 0 0 595.2756 39.68504 re f*
+q
+31.1811 0 0 31.1811 70.86614 4.251969 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 110.5512 26.92913 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F2 7 Tf 8.4 TL ( para trabalhadores-estudantes.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 110.5512 17.00787 Tm (Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+BT 1 0 0 1 110.5512 8.503937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 523.0147 17.00787 Tm (6/10) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+498 11.8898 47 20 re
+f*
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 527.48 20.3898 Tm
+(6\0579) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/Contents 41 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 42 0 R
+/F2 10 0 R
+/F2-0 43 0 R
+/F3 14 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+>>
+/XObject <<
+/FormXob.6dad61813444481a6e0457c85000eacc 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+41 0 obj
+<<
+/Length 8993
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.909804 .407843 .14902 rg
+n 0 813.5433 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 70.86614 823.4646 Tm (Trilha EJA-EPT  |  ProfEPT  |  IFC Campus Blumenau) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 533.0227 824.8819 Tm (7) Tj T* ET
+.909804 .407843 .14902 rg
+n 70.86614 759.685 11.33858 19.84252 re f*
+.117647 .227451 .372549 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 87.87402 768.189 Tm /F4 12 Tf 14.4 TL (n) Tj /F2 12 Tf 14.4 TL (  Roteiro Sugerido de 6 Encontros) Tj T* ET
+.898039 .905882 .921569 RG
+.5 w
+n 70.86614 756.8504 m 538.5827 756.8504 l S
+1 w
+q
+1 0 0 1 70.86614 717.6732 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.5 Tm /F2 11 Tf 16.5 TL (Adapt\341vel \340 sua realidade e \340 da turma) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 651.1654 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38.5 Tm /F1 11 Tf 16.5 TL 1.353538 Tw (Este roteiro \351 uma sugest\343o \227 n\343o uma prescri\347\343o. Adapte conforme o tempo dispon\355vel, o) Tj T* 0 Tw .250855 Tw (perfil da turma e o contexto institucional. O importante \351 garantir espa\347o para a fala, a escuta e) Tj T* 0 Tw (a reflex\343o coletiva.) Tj T* ET
+Q
+Q
+.117647 .227451 .372549 rg
+n
+76.53543 500.9291 m
+532.9134 500.9291 l
+536.0474 500.9291 538.5827 503.4644 538.5827 506.5984 c
+538.5827 617.1496 l
+538.5827 620.2836 536.0474 622.8189 532.9134 622.8189 c
+76.53543 622.8189 l
+73.40145 622.8189 70.86614 620.2836 70.86614 617.1496 c
+70.86614 506.5984 l
+70.86614 503.4644 73.40145 500.9291 76.53543 500.9291 c
+h
+f*
+1 1 1 rg
+n
+83.62205 503.7638 m
+531.4961 503.7638 l
+533.8466 503.7638 535.748 505.6653 535.748 508.0157 c
+535.748 615.7323 l
+535.748 618.0828 533.8466 619.9843 531.4961 619.9843 c
+83.62205 619.9843 l
+81.27156 619.9843 79.37008 618.0828 79.37008 615.7323 c
+79.37008 508.0157 l
+79.37008 505.6653 81.27156 503.7638 83.62205 503.7638 c
+h
+f*
+.117647 .227451 .372549 rg
+n
+119.0551 602.9764 m
+119.0551 610.804 112.7095 617.1496 104.8819 617.1496 c
+97.05423 617.1496 90.70866 610.804 90.70866 602.9764 c
+90.70866 595.1487 97.05423 588.8031 104.8819 588.8031 c
+112.7095 588.8031 119.0551 595.1487 119.0551 602.9764 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 102.1019 597.3071 Tm (1) Tj T* ET
+.117647 .227451 .372549 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 127.5591 602.9764 Tm (Quem somos? De onde viemos?) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F5 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 127.5591 585.9685 Tm (M\363dulos: Mapa da Vida \227 Blocos 1 e 2) Tj T* ET
+.898039 .905882 .921569 RG
+.4 w
+n 87.87402 577.4646 m 527.2441 577.4646 l S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 560.4567 Tm (Roda de conversa inicial. Cada estudante compartilha algo da sua) Tj T* ET
+BT 1 0 0 1 87.87402 546.2835 Tm (trajet\363ria. Media\347\343o com as perguntas: Por que paramos de estudar?) Tj T* ET
+BT 1 0 0 1 87.87402 532.1102 Tm (O que nos trouxe de volta? A EJA como direito \227 n\343o como favor.) Tj T* ET
+.117647 .227451 .372549 rg
+n
+462.0472 509.4331 m
+524.4094 509.4331 l
+525.9764 509.4331 527.2441 510.7007 527.2441 512.2677 c
+527.2441 526.4409 l
+527.2441 528.0079 525.9764 529.2756 524.4094 529.2756 c
+462.0472 529.2756 l
+460.4803 529.2756 459.2126 528.0079 459.2126 526.4409 c
+459.2126 512.2677 l
+459.2126 510.7007 460.4803 509.4331 462.0472 509.4331 c
+h
+f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 479.9563 519.3543 Tm /F4 8 Tf 9.6 TL (n) Tj /F2 8 Tf 9.6 TL ( 1h30) Tj T* ET
+.086275 .396078 .203922 rg
+n
+76.53543 353.5276 m
+532.9134 353.5276 l
+536.0474 353.5276 538.5827 356.0629 538.5827 359.1969 c
+538.5827 483.9213 l
+538.5827 487.0552 536.0474 489.5906 532.9134 489.5906 c
+76.53543 489.5906 l
+73.40145 489.5906 70.86614 487.0552 70.86614 483.9213 c
+70.86614 359.1969 l
+70.86614 356.0629 73.40145 353.5276 76.53543 353.5276 c
+h
+f*
+1 1 1 rg
+n
+83.62205 356.3622 m
+531.4961 356.3622 l
+533.8466 356.3622 535.748 358.2637 535.748 360.6142 c
+535.748 482.5039 l
+535.748 484.8544 533.8466 486.7559 531.4961 486.7559 c
+83.62205 486.7559 l
+81.27156 486.7559 79.37008 484.8544 79.37008 482.5039 c
+79.37008 360.6142 l
+79.37008 358.2637 81.27156 356.3622 83.62205 356.3622 c
+h
+f*
+.086275 .396078 .203922 rg
+n
+119.0551 469.748 m
+119.0551 477.5757 112.7095 483.9213 104.8819 483.9213 c
+97.05423 483.9213 90.70866 477.5757 90.70866 469.748 c
+90.70866 461.9204 97.05423 455.5748 104.8819 455.5748 c
+112.7095 455.5748 119.0551 461.9204 119.0551 469.748 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 102.1019 464.0787 Tm (2) Tj T* ET
+.086275 .396078 .203922 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 127.5591 469.748 Tm (Saberes, Trabalho e Direitos) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F5 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 127.5591 452.7402 Tm (M\363dulos: Valorize sua Experi\352ncia + Direitos Trabalhistas) Tj T* ET
+.898039 .905882 .921569 RG
+.4 w
+n 87.87402 444.2362 m 527.2441 444.2362 l S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 427.2283 Tm (Levantamento coletivo dos saberes da turma. Quais experi\352ncias temos?) Tj T* ET
+BT 1 0 0 1 87.87402 413.0551 Tm (O que j\341 aprendemos fora da escola? Conex\343o com os direitos trabalhistas:) Tj T* ET
+BT 1 0 0 1 87.87402 398.8819 Tm (carteira assinada, FGTS, seguran\347a no trabalho. Discuss\343o sobre trabalho) Tj T* ET
+BT 1 0 0 1 87.87402 384.7087 Tm (formal x informal e precariza\347\343o.) Tj T* ET
+.086275 .396078 .203922 rg
+n
+462.0472 362.0315 m
+524.4094 362.0315 l
+525.9764 362.0315 527.2441 363.2991 527.2441 364.8661 c
+527.2441 379.0394 l
+527.2441 380.6064 525.9764 381.874 524.4094 381.874 c
+462.0472 381.874 l
+460.4803 381.874 459.2126 380.6064 459.2126 379.0394 c
+459.2126 364.8661 l
+459.2126 363.2991 460.4803 362.0315 462.0472 362.0315 c
+h
+f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 479.9563 371.9528 Tm /F4 8 Tf 9.6 TL (n) Tj /F2 8 Tf 9.6 TL ( 1h30) Tj T* ET
+.909804 .407843 .14902 rg
+n
+76.53543 206.126 m
+532.9134 206.126 l
+536.0474 206.126 538.5827 208.6613 538.5827 211.7953 c
+538.5827 336.5197 l
+538.5827 339.6537 536.0474 342.189 532.9134 342.189 c
+76.53543 342.189 l
+73.40145 342.189 70.86614 339.6537 70.86614 336.5197 c
+70.86614 211.7953 l
+70.86614 208.6613 73.40145 206.126 76.53543 206.126 c
+h
+f*
+1 1 1 rg
+n
+83.62205 208.9606 m
+531.4961 208.9606 l
+533.8466 208.9606 535.748 210.8621 535.748 213.2126 c
+535.748 335.1024 l
+535.748 337.4529 533.8466 339.3543 531.4961 339.3543 c
+83.62205 339.3543 l
+81.27156 339.3543 79.37008 337.4529 79.37008 335.1024 c
+79.37008 213.2126 l
+79.37008 210.8621 81.27156 208.9606 83.62205 208.9606 c
+h
+f*
+.909804 .407843 .14902 rg
+n
+119.0551 322.3465 m
+119.0551 330.1741 112.7095 336.5197 104.8819 336.5197 c
+97.05423 336.5197 90.70866 330.1741 90.70866 322.3465 c
+90.70866 314.5188 97.05423 308.1732 104.8819 308.1732 c
+112.7095 308.1732 119.0551 314.5188 119.0551 322.3465 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 102.1019 316.6772 Tm (3) Tj T* ET
+.909804 .407843 .14902 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 127.5591 322.3465 Tm (Mundo do Trabalho e Projetos Profissionais) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F5 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 127.5591 305.3386 Tm (M\363dulos: O que faz um Eletricista + Central de Oportunidades + Criar Curr\355culo) Tj T* ET
+.898039 .905882 .921569 RG
+.4 w
+n 87.87402 296.8346 m 527.2441 296.8346 l S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 279.8268 Tm (O que faz um eletricista industrial? Onde pode atuar? Laborat\363rio de) Tj T* ET
+BT 1 0 0 1 87.87402 265.6535 Tm (elabora\347\343o do curr\355culo \227 individual ou em duplas, com apoio do educador.) Tj T* ET
+BT 1 0 0 1 87.87402 251.4803 Tm (Uso do m\363dulo Valorize sua Experi\352ncia para traduzir saberes da vida) Tj T* ET
+BT 1 0 0 1 87.87402 237.3071 Tm (em habilidades profissionais.) Tj T* ET
+.909804 .407843 .14902 rg
+n
+462.0472 214.6299 m
+524.4094 214.6299 l
+525.9764 214.6299 527.2441 215.8976 527.2441 217.4646 c
+527.2441 231.6378 l
+527.2441 233.2048 525.9764 234.4724 524.4094 234.4724 c
+462.0472 234.4724 l
+460.4803 234.4724 459.2126 233.2048 459.2126 231.6378 c
+459.2126 217.4646 l
+459.2126 215.8976 460.4803 214.6299 462.0472 214.6299 c
+h
+f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 484.4043 224.5512 Tm /F4 8 Tf 9.6 TL (n) Tj /F2 8 Tf 9.6 TL ( 2h) Tj T* ET
+.117647 .227451 .372549 rg
+n 0 0 595.2756 39.68504 re f*
+q
+31.1811 0 0 31.1811 70.86614 4.251969 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 110.5512 26.92913 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F2 7 Tf 8.4 TL ( para trabalhadores-estudantes.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 110.5512 17.00787 Tm (Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+BT 1 0 0 1 110.5512 8.503937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 523.0147 17.00787 Tm (8/10) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+498 11.8898 47 20 re
+f*
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 527.48 20.3898 Tm
+(7\0579) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+43 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+44 0 obj
+<<
+/Contents 45 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 46 0 R
+/F2 10 0 R
+/F2-0 47 0 R
+/F3 14 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+>>
+/XObject <<
+/FormXob.6dad61813444481a6e0457c85000eacc 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+45 0 obj
+<<
+/Length 7990
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.909804 .407843 .14902 rg
+n 0 813.5433 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 70.86614 823.4646 Tm (Trilha EJA-EPT  |  ProfEPT  |  IFC Campus Blumenau) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 533.0227 824.8819 Tm (8) Tj T* ET
+.356863 .129412 .713725 rg
+n
+76.53543 640.6299 m
+532.9134 640.6299 l
+536.0474 640.6299 538.5827 643.1652 538.5827 646.2992 c
+538.5827 756.8504 l
+538.5827 759.9844 536.0474 762.5197 532.9134 762.5197 c
+76.53543 762.5197 l
+73.40145 762.5197 70.86614 759.9844 70.86614 756.8504 c
+70.86614 646.2992 l
+70.86614 643.1652 73.40145 640.6299 76.53543 640.6299 c
+h
+f*
+1 1 1 rg
+n
+83.62205 643.4646 m
+531.4961 643.4646 l
+533.8466 643.4646 535.748 645.366 535.748 647.7165 c
+535.748 755.4331 l
+535.748 757.7836 533.8466 759.685 531.4961 759.685 c
+83.62205 759.685 l
+81.27156 759.685 79.37008 757.7836 79.37008 755.4331 c
+79.37008 647.7165 l
+79.37008 645.366 81.27156 643.4646 83.62205 643.4646 c
+h
+f*
+.356863 .129412 .713725 rg
+n
+119.0551 742.6772 m
+119.0551 750.5048 112.7095 756.8504 104.8819 756.8504 c
+97.05423 756.8504 90.70866 750.5048 90.70866 742.6772 c
+90.70866 734.8495 97.05423 728.5039 104.8819 728.5039 c
+112.7095 728.5039 119.0551 734.8495 119.0551 742.6772 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 102.1019 737.0079 Tm (4) Tj T* ET
+.356863 .129412 .713725 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 127.5591 742.6772 Tm (Caminhos de Estudo e Combate ao Apag\343o Informacional) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F5 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 127.5591 725.6693 Tm (M\363dulos: ENEM + SISU + PROUNI + Cursos Gratuitos) Tj T* ET
+.898039 .905882 .921569 RG
+.4 w
+n 87.87402 717.1654 m 527.2441 717.1654 l S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 700.1575 Tm (Navega\347\343o guiada pelos m\363dulos. Desmistifica\347\343o do ensino superior.) Tj T* ET
+BT 1 0 0 1 87.87402 685.9843 Tm (Roda de conversa: o que voc\352s sabiam sobre o ENEM antes de hoje?) Tj T* ET
+BT 1 0 0 1 87.87402 671.811 Tm (Quais caminhos parecem poss\355veis? Quais barreiras existem?) Tj T* ET
+.356863 .129412 .713725 rg
+n
+462.0472 649.1339 m
+524.4094 649.1339 l
+525.9764 649.1339 527.2441 650.4015 527.2441 651.9685 c
+527.2441 666.1417 l
+527.2441 667.7087 525.9764 668.9764 524.4094 668.9764 c
+462.0472 668.9764 l
+460.4803 668.9764 459.2126 667.7087 459.2126 666.1417 c
+459.2126 651.9685 l
+459.2126 650.4015 460.4803 649.1339 462.0472 649.1339 c
+h
+f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 479.9563 659.0551 Tm /F4 8 Tf 9.6 TL (n) Tj /F2 8 Tf 9.6 TL ( 1h30) Tj T* ET
+.058824 .462745 .431373 rg
+n
+76.53543 507.4016 m
+532.9134 507.4016 l
+536.0474 507.4016 538.5827 509.9369 538.5827 513.0709 c
+538.5827 623.622 l
+538.5827 626.756 536.0474 629.2913 532.9134 629.2913 c
+76.53543 629.2913 l
+73.40145 629.2913 70.86614 626.756 70.86614 623.622 c
+70.86614 513.0709 l
+70.86614 509.9369 73.40145 507.4016 76.53543 507.4016 c
+h
+f*
+1 1 1 rg
+n
+83.62205 510.2362 m
+531.4961 510.2362 l
+533.8466 510.2362 535.748 512.1377 535.748 514.4882 c
+535.748 622.2047 l
+535.748 624.5552 533.8466 626.4567 531.4961 626.4567 c
+83.62205 626.4567 l
+81.27156 626.4567 79.37008 624.5552 79.37008 622.2047 c
+79.37008 514.4882 l
+79.37008 512.1377 81.27156 510.2362 83.62205 510.2362 c
+h
+f*
+.058824 .462745 .431373 rg
+n
+119.0551 609.4488 m
+119.0551 617.2765 112.7095 623.622 104.8819 623.622 c
+97.05423 623.622 90.70866 617.2765 90.70866 609.4488 c
+90.70866 601.6212 97.05423 595.2756 104.8819 595.2756 c
+112.7095 595.2756 119.0551 601.6212 119.0551 609.4488 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 102.1019 603.7795 Tm (5) Tj T* ET
+.058824 .462745 .431373 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 127.5591 609.4488 Tm (Mapa da Vida) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F5 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 127.5591 592.4409 Tm (M\363dulos: Mapa da Vida \227 todos os blocos) Tj T* ET
+.898039 .905882 .921569 RG
+.4 w
+n 87.87402 583.937 m 527.2441 583.937 l S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 566.9291 Tm (Preenchimento coletivo e individual do Mapa da Vida. Roda de conversa) Tj T* ET
+BT 1 0 0 1 87.87402 552.7559 Tm (com compartilhamento volunt\341rio. Uso das Vozes da Trilha como inspira\347\343o.) Tj T* ET
+BT 1 0 0 1 87.87402 538.5827 Tm (Aten\347\343o: n\343o comparar trajet\363rias, n\343o usar linguagem meritocr\341tica.) Tj T* ET
+.058824 .462745 .431373 rg
+n
+462.0472 515.9055 m
+524.4094 515.9055 l
+525.9764 515.9055 527.2441 517.1732 527.2441 518.7402 c
+527.2441 532.9134 l
+527.2441 534.4804 525.9764 535.748 524.4094 535.748 c
+462.0472 535.748 l
+460.4803 535.748 459.2126 534.4804 459.2126 532.9134 c
+459.2126 518.7402 l
+459.2126 517.1732 460.4803 515.9055 462.0472 515.9055 c
+h
+f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 484.4043 525.8268 Tm /F4 8 Tf 9.6 TL (n) Tj /F2 8 Tf 9.6 TL ( 2h) Tj T* ET
+.862745 .14902 .14902 rg
+n
+76.53543 360 m
+532.9134 360 l
+536.0474 360 538.5827 362.5353 538.5827 365.6693 c
+538.5827 490.3937 l
+538.5827 493.5277 536.0474 496.063 532.9134 496.063 c
+76.53543 496.063 l
+73.40145 496.063 70.86614 493.5277 70.86614 490.3937 c
+70.86614 365.6693 l
+70.86614 362.5353 73.40145 360 76.53543 360 c
+h
+f*
+1 1 1 rg
+n
+83.62205 362.8346 m
+531.4961 362.8346 l
+533.8466 362.8346 535.748 364.7361 535.748 367.0866 c
+535.748 488.9764 l
+535.748 491.3269 533.8466 493.2283 531.4961 493.2283 c
+83.62205 493.2283 l
+81.27156 493.2283 79.37008 491.3269 79.37008 488.9764 c
+79.37008 367.0866 l
+79.37008 364.7361 81.27156 362.8346 83.62205 362.8346 c
+h
+f*
+.862745 .14902 .14902 rg
+n
+119.0551 476.2205 m
+119.0551 484.0481 112.7095 490.3937 104.8819 490.3937 c
+97.05423 490.3937 90.70866 484.0481 90.70866 476.2205 c
+90.70866 468.3928 97.05423 462.0472 104.8819 462.0472 c
+112.7095 462.0472 119.0551 468.3928 119.0551 476.2205 c
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 102.1019 470.5512 Tm (6) Tj T* ET
+.862745 .14902 .14902 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 127.5591 476.2205 Tm (S\355ntese, Avalia\347\343o e Continuidade) Tj T* ET
+.419608 .447059 .501961 rg
+BT /F5 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 127.5591 459.2126 Tm (M\363dulos: Sua Opini\343o Importa + Vozes da Trilha) Tj T* ET
+.898039 .905882 .921569 RG
+.4 w
+n 87.87402 450.7087 m 527.2441 450.7087 l S
+1 w
+.066667 .094118 .152941 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 87.87402 433.7008 Tm (Avalia\347\343o coletiva do processo. O que aprendemos juntos? O que mudou) Tj T* ET
+BT 1 0 0 1 87.87402 419.5276 Tm (na forma de ver nossos projetos de vida? Convite para deixar depoimento) Tj T* ET
+BT 1 0 0 1 87.87402 405.3543 Tm (nas Vozes da Trilha. Avalia\347\343o do aplicativo pelo formul\341rio Sua Opini\343o) Tj T* ET
+BT 1 0 0 1 87.87402 391.1811 Tm (Importa.) Tj T* ET
+.862745 .14902 .14902 rg
+n
+462.0472 368.5039 m
+524.4094 368.5039 l
+525.9764 368.5039 527.2441 369.7716 527.2441 371.3386 c
+527.2441 385.5118 l
+527.2441 387.0788 525.9764 388.3465 524.4094 388.3465 c
+462.0472 388.3465 l
+460.4803 388.3465 459.2126 387.0788 459.2126 385.5118 c
+459.2126 371.3386 l
+459.2126 369.7716 460.4803 368.5039 462.0472 368.5039 c
+h
+f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 479.9563 378.4252 Tm /F4 8 Tf 9.6 TL (n) Tj /F2 8 Tf 9.6 TL ( 1h30) Tj T* ET
+.117647 .227451 .372549 rg
+n 0 0 595.2756 39.68504 re f*
+q
+31.1811 0 0 31.1811 70.86614 4.251969 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 110.5512 26.92913 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F2 7 Tf 8.4 TL ( para trabalhadores-estudantes.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 110.5512 17.00787 Tm (Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+BT 1 0 0 1 110.5512 8.503937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 523.0147 17.00787 Tm (8/10) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+498 11.8898 47 20 re
+f*
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 527.48 20.3898 Tm
+(8\0579) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+46 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+47 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+48 0 obj
+<<
+/Contents 49 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 50 0 R
+/F2 10 0 R
+/F2-0 51 0 R
+/F3 14 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+>>
+/XObject <<
+/FormXob.6dad61813444481a6e0457c85000eacc 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+49 0 obj
+<<
+/Length 2125
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.117647 .227451 .372549 rg
+n 0 0 595.2756 841.8898 re f*
+.909804 .407843 .14902 rg
+n 0 813.5433 595.2756 28.34646 re f*
+1 1 1 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 198.0418 823.4646 Tm (Trilha EJA-EPT  |  ProfEPT  |  IFC Campus Blumenau) Tj T* ET
+q
+141.7323 0 0 141.7323 226.7717 350.0787 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+.909804 .407843 .14902 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 228.6198 514.4882 Tm (Acesse o app completo:) Tj T* ET
+1 1 1 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 212.3968 321.7323 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 160.5723 301.8898 Tm (Conte\372do completo, gratuito e acess\355vel pelo celular ou computador.) Tj T* ET
+.909804 .407843 .14902 rg
+n 0 56.69291 595.2756 39.68504 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 202.8778 87.87402 Tm ("O mundo n\343o \351. O mundo est\341 sendo.") Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 209.123 73.70079 Tm (Paulo Freire, 2002  |  Pedagogia da Autonomia) Tj T* ET
+.058824 .121569 .207843 rg
+n 0 0 595.2756 22.67717 re f*
+1 1 1 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 146.2243 8.503937 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F1 7 Tf 8.4 TL ( para trabalhadores-estudantes. | Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+.117647 .227451 .372549 rg
+n 0 0 595.2756 39.68504 re f*
+q
+31.1811 0 0 31.1811 70.86614 4.251969 cm
+/FormXob.6dad61813444481a6e0457c85000eacc Do
+Q
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 110.5512 26.92913 Tm (Feito com ) Tj /F4 7 Tf 8.4 TL (\244) Tj /F2 7 Tf 8.4 TL ( para trabalhadores-estudantes.) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 110.5512 17.00787 Tm (Trilha EJA-EPT | ProfEPT | IFC Campus Blumenau) Tj T* ET
+BT 1 0 0 1 110.5512 8.503937 Tm (trilha-futuro-eja.base44.app) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 518.5667 17.00787 Tm (10/10) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.117647 0.227451 0.372549 rg
+0.117647 0.227451 0.372549 RG
+n
+498 11.8898 47 20 re
+f*
+1 1 1 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 527.48 20.3898 Tm
+(9\0579) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+50 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+51 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 30
+0 52
 0000000000 65535 f 
-0000000061 00000 n 
-0000000143 00000 n 
-0000000250 00000 n 
-0000000362 00000 n 
-0000000481 00000 n 
-0000000564 00000 n 
-0000004264 00000 n 
-0000004532 00000 n 
-0000004647 00000 n 
-0000004915 00000 n 
-0000004993 00000 n 
-0000005262 00000 n 
-0000005531 00000 n 
-0000005800 00000 n 
-0000006069 00000 n 
-0000006338 00000 n 
-0000006607 00000 n 
-0000006876 00000 n 
-0000006946 00000 n 
-0000007208 00000 n 
-0000007323 00000 n 
-0000009249 00000 n 
-0000012627 00000 n 
-0000015221 00000 n 
-0000017939 00000 n 
-0000020715 00000 n 
-0000024227 00000 n 
-0000027798 00000 n 
-0000030894 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000169 00000 n 
+0000000218 00000 n 
+0000000646 00000 n 
+0000008205 00000 n 
+0000008312 00000 n 
+0000008419 00000 n 
+0000008526 00000 n 
+0000008633 00000 n 
+0000008746 00000 n 
+0000008859 00000 n 
+0000008972 00000 n 
+0000009085 00000 n 
+0000009205 00000 n 
+0000009325 00000 n 
+0000009409 00000 n 
+0000009525 00000 n 
+0000009603 00000 n 
+0000013302 00000 n 
+0000013670 00000 n 
+0000021425 00000 n 
+0000021533 00000 n 
+0000021646 00000 n 
+0000022014 00000 n 
+0000028504 00000 n 
+0000028612 00000 n 
+0000028725 00000 n 
+0000029093 00000 n 
+0000036726 00000 n 
+0000036834 00000 n 
+0000036947 00000 n 
+0000037315 00000 n 
+0000044351 00000 n 
+0000044459 00000 n 
+0000044572 00000 n 
+0000044940 00000 n 
+0000053891 00000 n 
+0000053999 00000 n 
+0000054112 00000 n 
+0000054480 00000 n 
+0000063526 00000 n 
+0000063634 00000 n 
+0000063747 00000 n 
+0000064115 00000 n 
+0000072158 00000 n 
+0000072266 00000 n 
+0000072379 00000 n 
+0000072747 00000 n 
+0000074925 00000 n 
+0000075033 00000 n 
 trailer
 <<
-/ID 
-[<143870a7d608d6c5be34aa8edbf3b4ca><143870a7d608d6c5be34aa8edbf3b4ca>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 19 0 R
-/Root 18 0 R
-/Size 30
+/Size 52
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-31891
+75146
 %%EOF
